@@ -66,16 +66,16 @@ public class SummaryController {
         NYHospitalized = summaryDataService.getLatestHospitalized(allStats, "NY");
         NYPositives = summaryDataService.getLatestPositive(allStats, "NY");
         NYDaysSinceDecline = summaryDataService.getDaysSinceDecline(allStats, "NY");
-        NYVerdict = summaryDataService.getVerdict(CTDaysSinceDecline, "NY");
+        NYVerdict = summaryDataService.getVerdict(NYDaysSinceDecline, "NY");
 
         MAHospitalized = summaryDataService.getLatestHospitalized(allStats, "MA");
         MAPositives = summaryDataService.getLatestPositive(allStats, "MA");
         MADaysSinceDecline = summaryDataService.getDaysSinceDecline(allStats, "MA");
-        MAVerdict = summaryDataService.getVerdict(CTDaysSinceDecline, "MA");
+        MAVerdict = summaryDataService.getVerdict(MADaysSinceDecline, "MA");
         
         
         model.addAttribute("locationStats", allStats);
-        model.addAttribute("DateToday", date);
+        model.addAttribute("dateToday", date);
         model.addAttribute("CTHospitalized", CTHospitalized);
         model.addAttribute("CTPositives", CTPositives);
         model.addAttribute("CTDaysSinceDecline", CTDaysSinceDecline);

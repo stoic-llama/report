@@ -12,14 +12,14 @@
 <div class="container">
 	<h1>Coronavirus Summary Report</h1>
 	<p>This application lists the summary statistics for Connecticut, New York, and Massachusetts.</p>
-	<p>Today's Date: <b th:text="${DateToday}">00/00/0000</b></p>
+	<p>Today's Date: <b th:text="${dateToday}">00/00/0000</b></p>
 	
     <table class="table">
 	    <tr>
             <th>State</th>
             <th>Hospitalized</th>
             <th>Positives</th>
-            <th>Days Since Last Hospitalization Decline</th>
+            <th>Days Of Continuous Hospitalization Rate Declining</th>
             <th>Ready to Reopen?</th>
         </tr>
         <tr>
