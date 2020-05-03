@@ -1,11 +1,7 @@
 package com.coronavirus.report.service;
 
-import java.io.IOException;
 import java.util.List;
 
-import javax.annotation.PostConstruct;
-
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.coronavirus.report.model.LocationStats;
@@ -15,6 +11,7 @@ import com.coronavirus.report.model.LocationStats;
 public class SummaryDataService {
 
 	public int getLatestHospitalized(List<LocationStats> allStats, String state) {
+		
 		return -1;
 	}
 	
@@ -26,6 +23,9 @@ public class SummaryDataService {
 		return -1;
 	}
     
-	
+	public String getVerdict(int daysSinceDecline, String state) {
+		
+		return "Not sure";
+	}
     
 }

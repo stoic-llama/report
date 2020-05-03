@@ -20,24 +20,28 @@
             <th>Hospitalized</th>
             <th>Positives</th>
             <th>Days Since Last Hospitalization Decline</th>
+            <th>Ready to Reopen?</th>
         </tr>
         <tr>
 	        <td>Connecticut</td>
 	        <td th:text="${CTHospitalized}">0</td>
 	        <td th:text="${CTPositives}">0</td>
 	        <td th:text="${CTDaysSinceDecline}">0</td>
+	        <td th:text="${CTVerdict}">Not sure</td>
         </tr>
         <tr>
 	        <td>New York</td>
 	        <td th:text="${NYHospitalized}">0</td>
 	        <td th:text="${NYPositives}">0</td>
 	        <td th:text="${NYDaysSinceDecline}">0</td>
+	        <td th:text="${NYVerdict}">Not sure</td>
         </tr>
         <tr>
 	        <td>Massachusetts</td>
 	        <td th:text="${MAHospitalized}">0</td>
 	        <td th:text="${MAPositives}">0</td>
 	        <td th:text="${MADaysSinceDecline}">0</td>
+	        <td th:text="${MAVerdict}">Not sure</td>        
         </tr>
     </table>
 </div>

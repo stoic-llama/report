@@ -39,7 +39,7 @@ public class CoronaVirusDataService {
 	
     
 	@PostConstruct
-	@Scheduled(cron = "* 1 * * * *") 
+	@Scheduled(cron = "* * 1 * * *") 
 	  // cron = seconds, minutes, hours, days, weeks, months. Run every hour. 
 	  // match @Scheduled with @EnableScheduling annotation in ReportApplication.java to let it run every hour.     
     private void fetchVirusData() throws IOException, InterruptedException {

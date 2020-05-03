@@ -47,40 +47,47 @@ public class SummaryController {
         int CTHospitalized = -1;
         int CTPositives = -1;
         int CTDaysSinceDecline = -1;
+        String CTVerdict = "Not sure";
         int NYHospitalized = -1;
         int NYPositives = -1;
         int NYDaysSinceDecline = -1;
+        String NYVerdict = "Not sure";
         int MAHospitalized = -1;
         int MAPositives = -1;
         int MADaysSinceDecline = -1;
-        
-        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("MM/dd/yyyy");
-        LocalDate localDate = LocalDate.now();
+        String MAVerdict = "Not sure";
+        LocalDate date = LocalDate.now();
 
         CTHospitalized = summaryDataService.getLatestHospitalized(allStats, "CT");
         CTPositives = summaryDataService.getLatestPositive(allStats, "CT");
         CTDaysSinceDecline = summaryDataService.getDaysSinceDecline(allStats, "CT");
+        CTVerdict = summaryDataService.getVerdict(CTDaysSinceDecline, "CT");
         
         NYHospitalized = summaryDataService.getLatestHospitalized(allStats, "NY");
         NYPositives = summaryDataService.getLatestPositive(allStats, "NY");
         NYDaysSinceDecline = summaryDataService.getDaysSinceDecline(allStats, "NY");
+        NYVerdict = summaryDataService.getVerdict(CTDaysSinceDecline, "NY");
 
         MAHospitalized = summaryDataService.getLatestHospitalized(allStats, "MA");
         MAPositives = summaryDataService.getLatestPositive(allStats, "MA");
         MADaysSinceDecline = summaryDataService.getDaysSinceDecline(allStats, "MA");
+        MAVerdict = summaryDataService.getVerdict(CTDaysSinceDecline, "MA");
         
         
         model.addAttribute("locationStats", allStats);
-        model.addAttribute("DateToday", localDate);
+        model.addAttribute("DateToday", date);
         model.addAttribute("CTHospitalized", CTHospitalized);
         model.addAttribute("CTPositives", CTPositives);
         model.addAttribute("CTDaysSinceDecline", CTDaysSinceDecline);
+        model.addAttribute("CTVerdict", CTVerdict);
         model.addAttribute("NYHospitalized", NYHospitalized);
         model.addAttribute("NYPositives", NYPositives);
         model.addAttribute("NYDaysSinceDecline", NYDaysSinceDecline);
+        model.addAttribute("NYVerdict", NYVerdict);
         model.addAttribute("MAHospitalized", MAHospitalized);
         model.addAttribute("MAPositives", MAPositives);
         model.addAttribute("MADaysSinceDecline", MADaysSinceDecline);
+        model.addAttribute("MAVerdict", MAVerdict);
         
         return "summary";
     }

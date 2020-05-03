@@ -28,6 +28,11 @@ class SummaryDataServiceTest {
 
 	@Test
 	void testGetLatestHospitalized() {
+		int actual = 0;
+		
+		
+		//assertEquals(-1, actual, "Hospitalized count is incorrect.");
+		
 		//fail("Not yet implemented");
 	}
 
@@ -38,6 +43,11 @@ class SummaryDataServiceTest {
 
 	@Test
 	void testGetDaysSinceDecline() {
+		//fail("Not yet implemented");
+	}
+	
+	@Test
+	void testGetVerdict() {
 		//fail("Not yet implemented");
 	}
 
