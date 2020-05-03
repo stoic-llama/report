@@ -11,7 +11,7 @@
 <body>
 <div class="container">
 	<h1>Coronavirus Report</h1>
-	<p>This application lists the current number of cases reported in all states</p>
+	<p>This application lists the historical number of cases reported in Connecticut, New York, and Massachusetts.</p>
 
     <table class="table">
         <tr>
@@ -21,7 +21,7 @@
             <th>In ICU Currently</th>
             <th>On Ventilator Currently</th>
         </tr>
-        <tr th:each="locationStat : ${locationStats}">
+        <tr th:each="locationStat : ${locationStats}" th:if="${locationStat.state} == 'CT' or ${locationStat.state} == 'NY' or ${locationStat.state} == 'MA'">
             <td th:text="${locationStat.date}"></td>
             <td th:text="${locationStat.state}"></td>
             <td th:text="${locationStat.hospitalizedCurrently}">0</td>

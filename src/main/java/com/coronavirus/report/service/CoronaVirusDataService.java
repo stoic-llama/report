@@ -25,14 +25,24 @@ public class CoronaVirusDataService {
     private List<LocationStats> allStats = new ArrayList<>();
 
     public List<LocationStats> getAllStats() {
-        return allStats;
+        try {
+			fetchVirusData();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+        
+    	return allStats;
     }
 
-    @PostConstruct
-    @Scheduled(cron = "* * 1 * * *")  
-    	// cron = seconds, minutes, hours, days, weeks, months.  Run every hour.
-    	// match @Scheduled with @EnableScheduling annotation in ReportApplication.java to let it run every hour.
-    public void fetchVirusData() throws IOException, InterruptedException {
+	
+    
+	@PostConstruct
+	@Scheduled(cron = "* 1 * * * *") 
+	  // cron = seconds, minutes, hours, days, weeks, months. Run every hour. 
+	  // match @Scheduled with @EnableScheduling annotation in ReportApplication.java to let it run every hour.     
+    private void fetchVirusData() throws IOException, InterruptedException {
         List<LocationStats> newStats = new ArrayList<>();
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
@@ -80,11 +90,10 @@ public class CoronaVirusDataService {
 				totalTestResultsIncrease
              */
         }
-        
-        
         this.allStats = newStats;
     }
     
+	
     public static int parseInteger( String string, int defaultValue ) {
     	  try {
     	    return Integer.parseInt(string);
