@@ -61,7 +61,7 @@ public class SummaryDataService {
 	}
     
 	
-	public String getVerdict(int daysSinceDecline, String state) {
+	public String getVerdict(int daysSinceDecline) {
 		String verdict = "Not valid";
 		
 		if(daysSinceDecline >= 14) {

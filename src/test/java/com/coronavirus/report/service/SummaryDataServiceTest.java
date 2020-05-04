@@ -114,10 +114,41 @@ class SummaryDataServiceTest {
 	
 	
 	@Test
-	void testGetVerdict() {
+	void testGetVerdict() {  // TODO: Refactor daysSinceDecline to its own method shared among tests
+		String expected = "Not valid";
+		String actual = "Not valid";
+		int today = 0;
+		int yesterday = 0;
+		int difference = 0;
+		int daysSinceDecline = 0;
 		
+		for (int i=0; i<=allStats.size()-1; i++) {
+			if(allStats.get(i).getState().equals("NY")) {
+				stateStats.add(allStats.get(i));
+			}
+		}
 		
-		//fail("Not yet implemented");
+		for (int j = 0; j <= stateStats.size()-1; j++) {
+			today = stateStats.get(j).getHospitalizedCurrently();
+			yesterday = stateStats.get(j+1).getHospitalizedCurrently();
+			difference = today - yesterday;
+			
+			if(difference > 0) { // if today is greater than yesterday					
+				j = stateStats.size(); // then exit the for loop 
+			} else {
+				daysSinceDecline++; // else increment the number of days that the hospitalization count has declined
+			}
+		}
+		
+		if(daysSinceDecline >= 14) {
+			expected = "Yes";
+		} else {
+			expected = "No";
+		}
+		
+		actual = summaryDataService.getVerdict(daysSinceDecline);
+		
+		assertEquals(expected, actual, "The verdict is incorrect.");
 	}
 
 }
