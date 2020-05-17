@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Coronavirus State Readiness Report</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+
+<body>
+<div class="container">
+	<h1>Coronavirus State Readiness Report</h1>
+	<p>This report will provide a general guidance on the readiness for the state to re-open.</p>
+	<p>Today's Date: <b th:text="${dateToday}">00/00/0000</b></p>
+	
+    <table class="table">
+	    <tr>
+            <th>State</th>
+            <th>Hospitalized</th>
+            <th>Positives</th>
+            <th>Continuous Days Of Hospitalization Decline</th>
+            <th>Ready to Reopen?</th>
+        </tr>
+        <tr>
+	        <td>Connecticut</td>
+	        <td th:text="${CTHospitalized}">0</td>
+	        <td th:text="${CTPositives}">0</td>
+	        <td th:text="${CTDaysSinceDecline}">0</td>
+	        <td th:text="${CTVerdict}">Not sure</td>
+        </tr>
+        <tr>
+	        <td>New York</td>
+	        <td th:text="${NYHospitalized}">0</td>
+	        <td th:text="${NYPositives}">0</td>
+	        <td th:text="${NYDaysSinceDecline}">0</td>
+	        <td th:text="${NYVerdict}">Not sure</td>
+        </tr>
+        <tr>
+	        <td>Massachusetts</td>
+	        <td th:text="${MAHospitalized}">0</td>
+	        <td th:text="${MAPositives}">0</td>
+	        <td th:text="${MADaysSinceDecline}">0</td>
+	        <td th:text="${MAVerdict}">Not sure</td>        
+        </tr>
+    </table>
+</div>
+
+</body>
+</html>

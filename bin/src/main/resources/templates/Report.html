@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Coronavirus Report</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+
+<body>
+<div class="container">
+	<h1>Coronavirus Report</h1>
+	<p>This application lists the historical number of cases reported in Connecticut, New York, and Massachusetts.</p>
+
+    <table class="table">
+        <tr>
+            <th>Date</th>
+            <th>State</th>
+            <th>Hospitalized Currently</th>
+            <th>In ICU Currently</th>
+            <th>On Ventilator Currently</th>
+        </tr>
+        <tr th:each="locationStat : ${locationStats}" th:if="${locationStat.state} == 'CT' or ${locationStat.state} == 'NY' or ${locationStat.state} == 'MA'">
+            <td th:text="${locationStat.date}"></td>
+            <td th:text="${locationStat.state}"></td>
+            <td th:text="${locationStat.hospitalizedCurrently}">0</td>
+            <td th:text="${locationStat.inIcuCurrently}">0</td>
+            <td th:text="${locationStat.onVentilatorCurrently}">0</td>
+        </tr>
+    </table>
+    
+</div>
+
+</body>
+</html>

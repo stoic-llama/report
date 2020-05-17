@@ -1,0 +1,936 @@
+country_region_code,country_region,sub_region_1,sub_region_2,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+US,United States,Connecticut,,2020-02-15,4,-4,16,8,-2,0
+US,United States,Connecticut,,2020-02-16,5,-5,-4,3,0,0
+US,United States,Connecticut,,2020-02-17,11,1,33,-1,-29,6
+US,United States,Connecticut,,2020-02-18,-1,-5,-14,0,-8,3
+US,United States,Connecticut,,2020-02-19,2,-1,12,4,0,0
+US,United States,Connecticut,,2020-02-20,2,-1,2,3,2,0
+US,United States,Connecticut,,2020-02-21,1,-5,-3,1,1,1
+US,United States,Connecticut,,2020-02-22,10,-1,74,10,3,-2
+US,United States,Connecticut,,2020-02-23,9,0,64,14,2,-1
+US,United States,Connecticut,,2020-02-24,4,2,45,3,4,0
+US,United States,Connecticut,,2020-02-25,1,-1,4,1,2,0
+US,United States,Connecticut,,2020-02-26,5,1,3,2,2,0
+US,United States,Connecticut,,2020-02-27,3,1,4,3,3,0
+US,United States,Connecticut,,2020-02-28,4,0,1,3,3,0
+US,United States,Connecticut,,2020-02-29,9,0,27,6,2,-2
+US,United States,Connecticut,,2020-03-01,10,5,-1,10,3,-1
+US,United States,Connecticut,,2020-03-02,7,8,31,2,4,-1
+US,United States,Connecticut,,2020-03-03,6,10,19,5,3,-1
+US,United States,Connecticut,,2020-03-04,6,8,22,4,2,-1
+US,United States,Connecticut,,2020-03-05,7,8,29,5,3,-1
+US,United States,Connecticut,,2020-03-06,2,1,1,2,2,1
+US,United States,Connecticut,,2020-03-07,10,6,50,7,3,-1
+US,United States,Connecticut,,2020-03-08,8,3,55,10,2,0
+US,United States,Connecticut,,2020-03-09,9,8,95,2,2,-1
+US,United States,Connecticut,,2020-03-10,4,9,24,0,1,0
+US,United States,Connecticut,,2020-03-11,5,12,30,-3,-1,0
+US,United States,Connecticut,,2020-03-12,5,34,10,-9,-2,2
+US,United States,Connecticut,,2020-03-13,-4,30,6,-18,-12,6
+US,United States,Connecticut,,2020-03-14,-7,16,95,-12,-3,3
+US,United States,Connecticut,,2020-03-15,-13,4,56,-19,-8,5
+US,United States,Connecticut,,2020-03-16,-7,26,16,-25,-23,9
+US,United States,Connecticut,,2020-03-17,-27,8,-10,-30,-31,14
+US,United States,Connecticut,,2020-03-18,-27,6,46,-30,-34,14
+US,United States,Connecticut,,2020-03-19,-33,2,-12,-40,-36,17
+US,United States,Connecticut,,2020-03-20,-32,12,12,-41,-37,18
+US,United States,Connecticut,,2020-03-21,-38,1,100,-38,-26,11
+US,United States,Connecticut,,2020-03-22,-43,-15,27,-48,-29,11
+US,United States,Connecticut,,2020-03-23,-47,-24,-46,-53,-45,21
+US,United States,Connecticut,,2020-03-24,-43,-16,17,-46,-47,21
+US,United States,Connecticut,,2020-03-25,-46,-19,-21,-51,-49,22
+US,United States,Connecticut,,2020-03-26,-41,-14,55,-48,-48,21
+US,United States,Connecticut,,2020-03-27,-42,-16,55,-51,-47,22
+US,United States,Connecticut,,2020-03-28,-48,-20,29,-55,-35,15
+US,United States,Connecticut,,2020-03-29,-56,-32,-52,-64,-38,15
+US,United States,Connecticut,,2020-03-30,-43,-19,-6,-53,-49,21
+US,United States,Connecticut,,2020-03-31,-42,-18,8,-51,-51,22
+US,United States,Connecticut,,2020-04-01,-40,-11,28,-49,-51,21
+US,United States,Connecticut,,2020-04-02,-44,-12,-3,-54,-51,23
+US,United States,Connecticut,,2020-04-03,-46,-12,-35,-59,-52,26
+US,United States,Connecticut,,2020-04-04,-47,-15,88,-53,-38,15
+US,United States,Connecticut,,2020-04-05,-50,-26,23,-61,-38,13
+US,United States,Connecticut,,2020-04-06,-39,-16,60,-52,-52,21
+US,United States,Connecticut,,2020-04-07,-41,-16,42,-50,-53,22
+US,United States,Connecticut,,2020-04-08,-46,-17,-3,-54,-54,23
+US,United States,Connecticut,,2020-04-09,-48,-17,-32,-59,-55,25
+US,United States,Connecticut,,2020-04-10,-45,-10,-10,-59,-62,28
+US,United States,Connecticut,,2020-04-11,-44,-9,76,-54,-40,15
+US,United States,Connecticut,,2020-04-12,-65,-50,25,-62,-45,13
+US,United States,Connecticut,,2020-04-13,-57,-41,-52,-66,-56,26
+US,United States,Connecticut,,2020-04-14,-39,-14,35,-50,-52,21
+US,United States,Connecticut,,2020-04-15,-36,-14,20,-52,-52,22
+US,United States,Connecticut,,2020-04-16,-40,-15,8,-53,-52,23
+US,United States,Connecticut,,2020-04-17,-42,-18,5,-55,-51,24
+US,United States,Connecticut,,2020-04-18,-51,-24,-12,-59,-38,17
+US,United States,Connecticut,,2020-04-19,-41,-23,73,-55,-34,11
+US,United States,Connecticut,,2020-04-20,-39,-19,17,-52,-50,21
+US,United States,Connecticut,,2020-04-21,-46,-25,-28,-55,-52,24
+US,United States,Connecticut,,2020-04-22,-40,-17,5,-51,-52,22
+US,United States,Connecticut,,2020-04-23,-41,-18,1,-52,-51,22
+US,United States,Connecticut,,2020-04-24,-45,-22,-33,-58,-51,26
+US,United States,Connecticut,,2020-04-25,-37,-17,174,-44,-33,11
+US,United States,Connecticut,,2020-04-26,-50,-29,-41,-63,-36,14
+US,United States,Connecticut,,2020-04-27,-40,-20,-18,-54,-49,22
+US,United States,Connecticut,,2020-04-28,-33,-14,55,-45,-50,14
+US,United States,Connecticut,,2020-04-29,-37,-17,19,-48,-51,21
+US,United States,Connecticut,,2020-04-30,-42,-18,-24,-55,-51,23
+US,United States,Connecticut,,2020-05-01,-37,-14,11,-51,-48,23
+US,United States,Connecticut,,2020-05-02,-32,-11,180,-39,-30,10
+US,United States,Connecticut,,2020-05-03,-30,-13,116,-44,-28,8
+US,United States,Connecticut,,2020-05-04,-30,-11,34,-48,-48,19
+US,United States,Connecticut,,2020-05-05,-27,-5,46,-43,-48,18
+US,United States,Connecticut,,2020-05-06,-35,-13,4,-47,-49,20
+US,United States,Connecticut,,2020-05-07,-31,-8,63,-44,-48,19
+US,United States,Connecticut,,2020-05-08,-37,-10,-6,-51,-47,22
+US,United States,Connecticut,,2020-05-09,-35,1,37,-48,-30,12
+US,United States,Connecticut,Fairfield County,2020-02-15,-1,-5,14,7,-1,0
+US,United States,Connecticut,Fairfield County,2020-02-16,-1,-6,-1,3,-1,0
+US,United States,Connecticut,Fairfield County,2020-02-17,11,2,53,-9,-37,8
+US,United States,Connecticut,Fairfield County,2020-02-18,-2,-4,-12,-1,-6,2
+US,United States,Connecticut,Fairfield County,2020-02-19,1,1,20,2,-1,0
+US,United States,Connecticut,Fairfield County,2020-02-20,1,-1,7,3,0,0
+US,United States,Connecticut,Fairfield County,2020-02-21,-1,-5,-1,3,0,1
+US,United States,Connecticut,Fairfield County,2020-02-22,5,-1,75,10,4,-1
+US,United States,Connecticut,Fairfield County,2020-02-23,4,0,72,18,2,-1
+US,United States,Connecticut,Fairfield County,2020-02-24,2,-1,44,-1,3,-1
+US,United States,Connecticut,Fairfield County,2020-02-25,-1,-2,3,-1,2,0
+US,United States,Connecticut,Fairfield County,2020-02-26,3,2,-1,1,0,0
+US,United States,Connecticut,Fairfield County,2020-02-27,1,-1,12,1,2,0
+US,United States,Connecticut,Fairfield County,2020-02-28,1,-1,4,3,3,0
+US,United States,Connecticut,Fairfield County,2020-02-29,5,0,20,6,2,-1
+US,United States,Connecticut,Fairfield County,2020-03-01,5,4,9,10,2,-1
+US,United States,Connecticut,Fairfield County,2020-03-02,4,5,37,0,3,-1
+US,United States,Connecticut,Fairfield County,2020-03-03,3,8,19,0,2,-1
+US,United States,Connecticut,Fairfield County,2020-03-04,5,9,28,-2,1,-1
+US,United States,Connecticut,Fairfield County,2020-03-05,5,7,35,1,2,-1
+US,United States,Connecticut,Fairfield County,2020-03-06,0,2,1,1,1,1
+US,United States,Connecticut,Fairfield County,2020-03-07,6,7,47,1,3,-1
+US,United States,Connecticut,Fairfield County,2020-03-08,4,3,67,8,0,0
+US,United States,Connecticut,Fairfield County,2020-03-09,5,5,105,-5,1,0
+US,United States,Connecticut,Fairfield County,2020-03-10,3,8,29,-8,0,1
+US,United States,Connecticut,Fairfield County,2020-03-11,4,12,34,-11,-4,1
+US,United States,Connecticut,Fairfield County,2020-03-12,1,34,7,-17,-8,4
+US,United States,Connecticut,Fairfield County,2020-03-13,-9,26,25,-24,-19,10
+US,United States,Connecticut,Fairfield County,2020-03-14,-14,13,111,-19,-4,4
+US,United States,Connecticut,Fairfield County,2020-03-15,-19,2,70,-25,-10,6
+US,United States,Connecticut,Fairfield County,2020-03-16,-12,20,12,-36,-29,12
+US,United States,Connecticut,Fairfield County,2020-03-17,-28,8,2,-40,-37,17
+US,United States,Connecticut,Fairfield County,2020-03-18,-29,4,49,-42,-39,16
+US,United States,Connecticut,Fairfield County,2020-03-19,-35,0,5,-49,-42,20
+US,United States,Connecticut,Fairfield County,2020-03-20,-35,7,32,-50,-42,21
+US,United States,Connecticut,Fairfield County,2020-03-21,-43,0,88,-47,-28,13
+US,United States,Connecticut,Fairfield County,2020-03-22,-49,-16,15,-57,-34,13
+US,United States,Connecticut,Fairfield County,2020-03-23,-51,-29,-56,-64,-52,25
+US,United States,Connecticut,Fairfield County,2020-03-24,-45,-17,22,-58,-53,23
+US,United States,Connecticut,Fairfield County,2020-03-25,-49,-21,-25,-61,-55,25
+US,United States,Connecticut,Fairfield County,2020-03-26,-45,-17,52,-59,-54,24
+US,United States,Connecticut,Fairfield County,2020-03-27,-46,-18,53,-61,-53,25
+US,United States,Connecticut,Fairfield County,2020-03-28,-55,-23,-13,-63,-40,18
+US,United States,Connecticut,Fairfield County,2020-03-29,-61,-35,-60,-72,-44,17
+US,United States,Connecticut,Fairfield County,2020-03-30,-46,-22,-5,-64,-56,24
+US,United States,Connecticut,Fairfield County,2020-03-31,-47,-21,-5,-63,-57,25
+US,United States,Connecticut,Fairfield County,2020-04-01,-45,-16,25,-63,-58,25
+US,United States,Connecticut,Fairfield County,2020-04-02,-48,-17,-6,-67,-58,26
+US,United States,Connecticut,Fairfield County,2020-04-03,-51,-16,-42,-68,-58,30
+US,United States,Connecticut,Fairfield County,2020-04-04,-53,-20,73,-63,-43,17
+US,United States,Connecticut,Fairfield County,2020-04-05,-56,-30,6,-71,-44,16
+US,United States,Connecticut,Fairfield County,2020-04-06,-45,-21,51,-65,-58,24
+US,United States,Connecticut,Fairfield County,2020-04-07,-46,-20,33,-63,-59,25
+US,United States,Connecticut,Fairfield County,2020-04-08,-50,-20,-3,-66,-61,26
+US,United States,Connecticut,Fairfield County,2020-04-09,-52,-20,-34,-70,-62,29
+US,United States,Connecticut,Fairfield County,2020-04-10,-52,-17,-23,-70,-65,31
+US,United States,Connecticut,Fairfield County,2020-04-11,-52,-17,53,-65,-45,17
+US,United States,Connecticut,Fairfield County,2020-04-12,-68,-50,8,-71,-51,16
+US,United States,Connecticut,Fairfield County,2020-04-13,-60,-42,-55,-74,-62,30
+US,United States,Connecticut,Fairfield County,2020-04-14,-44,-17,25,-63,-57,25
+US,United States,Connecticut,Fairfield County,2020-04-15,-42,-19,12,-64,-58,25
+US,United States,Connecticut,Fairfield County,2020-04-16,-44,-19,6,-63,-58,26
+US,United States,Connecticut,Fairfield County,2020-04-17,-47,-22,-8,-64,-56,27
+US,United States,Connecticut,Fairfield County,2020-04-18,-54,-25,-23,-64,-42,19
+US,United States,Connecticut,Fairfield County,2020-04-19,-49,-29,46,-64,-40,14
+US,United States,Connecticut,Fairfield County,2020-04-20,-43,-24,11,-64,-56,24
+US,United States,Connecticut,Fairfield County,2020-04-21,-48,-28,-30,-66,-58,27
+US,United States,Connecticut,Fairfield County,2020-04-22,-43,-19,2,-62,-57,24
+US,United States,Connecticut,Fairfield County,2020-04-23,-45,-21,-8,-63,-57,26
+US,United States,Connecticut,Fairfield County,2020-04-24,-49,-24,-39,-67,-56,29
+US,United States,Connecticut,Fairfield County,2020-04-25,-45,-22,125,-55,-37,13
+US,United States,Connecticut,Fairfield County,2020-04-26,-57,-35,-57,-70,-42,16
+US,United States,Connecticut,Fairfield County,2020-04-27,-43,-24,-21,-64,-55,25
+US,United States,Connecticut,Fairfield County,2020-04-28,-37,-18,69,-57,-56,17
+US,United States,Connecticut,Fairfield County,2020-04-29,-42,-22,-8,-62,-56,24
+US,United States,Connecticut,Fairfield County,2020-04-30,-46,-21,-24,-65,-57,27
+US,United States,Connecticut,Fairfield County,2020-05-01,-42,-18,6,-61,-53,26
+US,United States,Connecticut,Fairfield County,2020-05-02,-40,-17,,-51,-34,12
+US,United States,Connecticut,Fairfield County,2020-05-03,-39,-20,98,-58,-34,11
+US,United States,Connecticut,Fairfield County,2020-05-04,-35,-18,32,-60,-53,21
+US,United States,Connecticut,Fairfield County,2020-05-05,-32,-10,49,-57,-53,21
+US,United States,Connecticut,Fairfield County,2020-05-06,-39,-17,-8,-59,-54,23
+US,United States,Connecticut,Fairfield County,2020-05-07,-34,-12,68,-57,-53,22
+US,United States,Connecticut,Fairfield County,2020-05-08,-41,-15,-18,-60,-51,25
+US,United States,Connecticut,Fairfield County,2020-05-09,-39,-3,23,-49,-32,13
+US,United States,Connecticut,Hartford County,2020-02-15,5,-6,17,3,-1,0
+US,United States,Connecticut,Hartford County,2020-02-16,7,-7,-9,2,1,0
+US,United States,Connecticut,Hartford County,2020-02-17,9,-3,26,-5,-27,6
+US,United States,Connecticut,Hartford County,2020-02-18,-2,-7,-17,-1,-9,3
+US,United States,Connecticut,Hartford County,2020-02-19,2,-1,10,5,1,0
+US,United States,Connecticut,Hartford County,2020-02-20,1,-1,1,2,2,0
+US,United States,Connecticut,Hartford County,2020-02-21,0,-5,1,1,1,0
+US,United States,Connecticut,Hartford County,2020-02-22,10,-3,87,8,2,-1
+US,United States,Connecticut,Hartford County,2020-02-23,8,-1,81,11,3,-1
+US,United States,Connecticut,Hartford County,2020-02-24,4,2,58,6,3,-1
+US,United States,Connecticut,Hartford County,2020-02-25,3,-1,9,2,3,0
+US,United States,Connecticut,Hartford County,2020-02-26,8,2,2,3,1,0
+US,United States,Connecticut,Hartford County,2020-02-27,4,1,-1,3,2,0
+US,United States,Connecticut,Hartford County,2020-02-28,5,-1,-2,5,2,0
+US,United States,Connecticut,Hartford County,2020-02-29,11,-2,28,7,2,-2
+US,United States,Connecticut,Hartford County,2020-03-01,15,3,-12,8,3,-1
+US,United States,Connecticut,Hartford County,2020-03-02,9,7,32,3,4,-1
+US,United States,Connecticut,Hartford County,2020-03-03,7,11,25,5,3,-1
+US,United States,Connecticut,Hartford County,2020-03-04,8,9,25,5,2,-1
+US,United States,Connecticut,Hartford County,2020-03-05,7,9,29,3,3,-1
+US,United States,Connecticut,Hartford County,2020-03-06,1,2,2,1,2,0
+US,United States,Connecticut,Hartford County,2020-03-07,10,4,53,7,2,-1
+US,United States,Connecticut,Hartford County,2020-03-08,8,3,68,7,2,-1
+US,United States,Connecticut,Hartford County,2020-03-09,7,8,113,0,2,-1
+US,United States,Connecticut,Hartford County,2020-03-10,4,10,33,2,2,0
+US,United States,Connecticut,Hartford County,2020-03-11,6,14,31,-2,0,0
+US,United States,Connecticut,Hartford County,2020-03-12,6,36,10,-6,0,1
+US,United States,Connecticut,Hartford County,2020-03-13,-4,33,1,-15,-8,5
+US,United States,Connecticut,Hartford County,2020-03-14,-8,15,98,-9,-2,3
+US,United States,Connecticut,Hartford County,2020-03-15,-13,4,61,-18,-6,4
+US,United States,Connecticut,Hartford County,2020-03-16,-9,24,19,-24,-23,9
+US,United States,Connecticut,Hartford County,2020-03-17,-29,8,-12,-30,-30,14
+US,United States,Connecticut,Hartford County,2020-03-18,-27,9,49,-28,-34,14
+US,United States,Connecticut,Hartford County,2020-03-19,-35,4,-26,-42,-36,17
+US,United States,Connecticut,Hartford County,2020-03-20,-34,14,7,-40,-37,18
+US,United States,Connecticut,Hartford County,2020-03-21,-40,1,120,-36,-25,11
+US,United States,Connecticut,Hartford County,2020-03-22,-44,-15,34,-46,-26,10
+US,United States,Connecticut,Hartford County,2020-03-23,-49,-24,-46,-53,-44,20
+US,United States,Connecticut,Hartford County,2020-03-24,-46,-17,10,-47,-47,21
+US,United States,Connecticut,Hartford County,2020-03-25,-48,-18,-22,-51,-49,22
+US,United States,Connecticut,Hartford County,2020-03-26,-43,-14,60,-50,-48,21
+US,United States,Connecticut,Hartford County,2020-03-27,-44,-14,65,-50,-48,22
+US,United States,Connecticut,Hartford County,2020-03-28,-50,-20,47,-52,-34,14
+US,United States,Connecticut,Hartford County,2020-03-29,-56,-31,-48,-61,-35,13
+US,United States,Connecticut,Hartford County,2020-03-30,-45,-21,-11,-54,-49,21
+US,United States,Connecticut,Hartford County,2020-03-31,-44,-17,17,-52,-50,21
+US,United States,Connecticut,Hartford County,2020-04-01,-42,-9,30,-49,-51,21
+US,United States,Connecticut,Hartford County,2020-04-02,-45,-9,-3,-54,-51,23
+US,United States,Connecticut,Hartford County,2020-04-03,-48,-10,-31,-57,-51,25
+US,United States,Connecticut,Hartford County,2020-04-04,-49,-15,108,-50,-36,14
+US,United States,Connecticut,Hartford County,2020-04-05,-51,-25,31,-56,-36,12
+US,United States,Connecticut,Hartford County,2020-04-06,-42,-16,66,-51,-51,20
+US,United States,Connecticut,Hartford County,2020-04-07,-43,-15,58,-49,-53,22
+US,United States,Connecticut,Hartford County,2020-04-08,-46,-13,-1,-55,-53,23
+US,United States,Connecticut,Hartford County,2020-04-09,-49,-15,-35,-60,-54,24
+US,United States,Connecticut,Hartford County,2020-04-10,-47,-7,-3,-56,-62,27
+US,United States,Connecticut,Hartford County,2020-04-11,-47,-9,88,-50,-39,14
+US,United States,Connecticut,Hartford County,2020-04-12,-66,-47,30,-58,-42,12
+US,United States,Connecticut,Hartford County,2020-04-13,-59,-41,-53,-67,-55,25
+US,United States,Connecticut,Hartford County,2020-04-14,-41,-13,38,-51,-52,21
+US,United States,Connecticut,Hartford County,2020-04-15,-38,-12,21,-52,-52,22
+US,United States,Connecticut,Hartford County,2020-04-16,-42,-13,4,-55,-52,22
+US,United States,Connecticut,Hartford County,2020-04-17,-44,-16,10,-53,-51,24
+US,United States,Connecticut,Hartford County,2020-04-18,-54,-25,-10,-58,-38,16
+US,United States,Connecticut,Hartford County,2020-04-19,-43,-21,76,-52,-31,10
+US,United States,Connecticut,Hartford County,2020-04-20,-41,-19,21,-53,-51,20
+US,United States,Connecticut,Hartford County,2020-04-21,-49,-26,-26,-57,-52,24
+US,United States,Connecticut,Hartford County,2020-04-22,-42,-15,4,-53,-52,22
+US,United States,Connecticut,Hartford County,2020-04-23,-43,-16,2,-53,-51,22
+US,United States,Connecticut,Hartford County,2020-04-24,-48,-21,-29,-57,-51,25
+US,United States,Connecticut,Hartford County,2020-04-25,-41,-16,,-40,-32,11
+US,United States,Connecticut,Hartford County,2020-04-26,-51,-26,-37,-61,-34,13
+US,United States,Connecticut,Hartford County,2020-04-27,-43,-21,-23,-56,-50,21
+US,United States,Connecticut,Hartford County,2020-04-28,-36,-12,51,-47,-51,15
+US,United States,Connecticut,Hartford County,2020-04-29,-38,-13,27,-48,-51,21
+US,United States,Connecticut,Hartford County,2020-04-30,-44,-16,-28,-57,-51,23
+US,United States,Connecticut,Hartford County,2020-05-01,-40,-12,10,-51,-49,23
+US,United States,Connecticut,Hartford County,2020-05-02,-35,-10,,-36,-29,10
+US,United States,Connecticut,Hartford County,2020-05-03,-33,-10,109,-39,-26,7
+US,United States,Connecticut,Hartford County,2020-05-04,-33,-11,29,-49,-48,18
+US,United States,Connecticut,Hartford County,2020-05-05,-29,-3,44,-44,-48,18
+US,United States,Connecticut,Hartford County,2020-05-06,-36,-10,4,-48,-49,20
+US,United States,Connecticut,Hartford County,2020-05-07,-33,-7,59,-46,-48,19
+US,United States,Connecticut,Hartford County,2020-05-08,-39,-7,-3,-51,-48,22
+US,United States,Connecticut,Hartford County,2020-05-09,-37,1,36,-49,-30,12
+US,United States,Connecticut,Litchfield County,2020-02-15,7,-10,17,,0,0
+US,United States,Connecticut,Litchfield County,2020-02-16,7,-7,6,,-1,0
+US,United States,Connecticut,Litchfield County,2020-02-17,10,4,58,,-27,6
+US,United States,Connecticut,Litchfield County,2020-02-18,1,-4,-15,,-8,3
+US,United States,Connecticut,Litchfield County,2020-02-19,2,-4,10,,0,0
+US,United States,Connecticut,Litchfield County,2020-02-20,2,-4,0,,2,0
+US,United States,Connecticut,Litchfield County,2020-02-21,3,-7,13,,1,1
+US,United States,Connecticut,Litchfield County,2020-02-22,14,-6,92,,5,-1
+US,United States,Connecticut,Litchfield County,2020-02-23,13,-1,72,,-1,-1
+US,United States,Connecticut,Litchfield County,2020-02-24,4,4,55,,4,0
+US,United States,Connecticut,Litchfield County,2020-02-25,0,-4,1,,2,0
+US,United States,Connecticut,Litchfield County,2020-02-26,4,-1,-7,,3,0
+US,United States,Connecticut,Litchfield County,2020-02-27,2,-1,-9,,3,0
+US,United States,Connecticut,Litchfield County,2020-02-28,-1,-1,11,,2,0
+US,United States,Connecticut,Litchfield County,2020-02-29,6,-5,18,,2,-1
+US,United States,Connecticut,Litchfield County,2020-03-01,1,4,-8,,3,-1
+US,United States,Connecticut,Litchfield County,2020-03-02,0,4,37,,5,-1
+US,United States,Connecticut,Litchfield County,2020-03-03,6,10,10,,4,-1
+US,United States,Connecticut,Litchfield County,2020-03-04,5,9,19,,4,0
+US,United States,Connecticut,Litchfield County,2020-03-05,6,10,38,,4,-1
+US,United States,Connecticut,Litchfield County,2020-03-06,2,1,3,,1,1
+US,United States,Connecticut,Litchfield County,2020-03-07,11,3,37,,3,-1
+US,United States,Connecticut,Litchfield County,2020-03-08,8,7,58,,1,-1
+US,United States,Connecticut,Litchfield County,2020-03-09,8,12,,,3,-1
+US,United States,Connecticut,Litchfield County,2020-03-10,6,9,21,,2,0
+US,United States,Connecticut,Litchfield County,2020-03-11,3,13,31,,1,1
+US,United States,Connecticut,Litchfield County,2020-03-12,5,35,12,,-1,1
+US,United States,Connecticut,Litchfield County,2020-03-13,0,40,10,,-12,6
+US,United States,Connecticut,Litchfield County,2020-03-14,-1,18,111,,-1,4
+US,United States,Connecticut,Litchfield County,2020-03-15,-9,6,70,,-8,4
+US,United States,Connecticut,Litchfield County,2020-03-16,2,37,48,,-18,7
+US,United States,Connecticut,Litchfield County,2020-03-17,-23,8,-3,,-25,12
+US,United States,Connecticut,Litchfield County,2020-03-18,-21,8,107,,-27,12
+US,United States,Connecticut,Litchfield County,2020-03-19,-28,6,14,,-31,16
+US,United States,Connecticut,Litchfield County,2020-03-20,-25,19,47,,-32,17
+US,United States,Connecticut,Litchfield County,2020-03-21,-29,1,,,-21,10
+US,United States,Connecticut,Litchfield County,2020-03-22,-36,-14,79,,-24,9
+US,United States,Connecticut,Litchfield County,2020-03-23,-45,-24,-37,,-39,19
+US,United States,Connecticut,Litchfield County,2020-03-24,-38,-13,35,,-42,19
+US,United States,Connecticut,Litchfield County,2020-03-25,-40,-16,4,,-42,20
+US,United States,Connecticut,Litchfield County,2020-03-26,-34,-11,,,-42,19
+US,United States,Connecticut,Litchfield County,2020-03-27,-35,-10,,,-43,21
+US,United States,Connecticut,Litchfield County,2020-03-28,-41,-16,82,,-32,14
+US,United States,Connecticut,Litchfield County,2020-03-29,-51,-27,-40,,-33,13
+US,United States,Connecticut,Litchfield County,2020-03-30,-37,-13,34,,-43,19
+US,United States,Connecticut,Litchfield County,2020-03-31,-35,-14,43,,-45,20
+US,United States,Connecticut,Litchfield County,2020-04-01,-34,-12,113,,-45,19
+US,United States,Connecticut,Litchfield County,2020-04-02,-37,-10,46,,-46,21
+US,United States,Connecticut,Litchfield County,2020-04-03,-41,-8,-11,,-47,25
+US,United States,Connecticut,Litchfield County,2020-04-04,-40,-15,,,-32,13
+US,United States,Connecticut,Litchfield County,2020-04-05,-45,-27,86,,-36,11
+US,United States,Connecticut,Litchfield County,2020-04-06,-30,-12,,,-46,18
+US,United States,Connecticut,Litchfield County,2020-04-07,-33,-16,,,-47,19
+US,United States,Connecticut,Litchfield County,2020-04-08,-37,-17,46,,-48,21
+US,United States,Connecticut,Litchfield County,2020-04-09,-42,-16,-14,,-49,23
+US,United States,Connecticut,Litchfield County,2020-04-10,-38,-4,26,,-60,27
+US,United States,Connecticut,Litchfield County,2020-04-11,-35,-6,,,-37,14
+US,United States,Connecticut,Litchfield County,2020-04-12,-62,-60,,,-45,12
+US,United States,Connecticut,Litchfield County,2020-04-13,-48,-40,-38,,-50,23
+US,United States,Connecticut,Litchfield County,2020-04-14,-29,-17,95,,-46,19
+US,United States,Connecticut,Litchfield County,2020-04-15,-26,-16,72,,-47,20
+US,United States,Connecticut,Litchfield County,2020-04-16,-31,-19,53,,-45,21
+US,United States,Connecticut,Litchfield County,2020-04-17,-34,-15,72,,-46,22
+US,United States,Connecticut,Litchfield County,2020-04-18,-45,-30,2,,-36,16
+US,United States,Connecticut,Litchfield County,2020-04-19,-29,-24,,,-32,9
+US,United States,Connecticut,Litchfield County,2020-04-20,-29,-19,84,,-44,18
+US,United States,Connecticut,Litchfield County,2020-04-21,-38,-28,-13,,-46,21
+US,United States,Connecticut,Litchfield County,2020-04-22,-31,-20,53,,-45,20
+US,United States,Connecticut,Litchfield County,2020-04-23,-34,-19,50,,-44,20
+US,United States,Connecticut,Litchfield County,2020-04-24,-37,-21,3,,-46,24
+US,United States,Connecticut,Litchfield County,2020-04-25,-22,-20,,,-29,10
+US,United States,Connecticut,Litchfield County,2020-04-26,-43,-33,-26,,-32,12
+US,United States,Connecticut,Litchfield County,2020-04-27,-32,-19,8,,-43,19
+US,United States,Connecticut,Litchfield County,2020-04-28,-23,-18,,,-43,12
+US,United States,Connecticut,Litchfield County,2020-04-29,-27,-19,88,,-44,19
+US,United States,Connecticut,Litchfield County,2020-04-30,-36,-20,-3,,-45,21
+US,United States,Connecticut,Litchfield County,2020-05-01,-29,-16,35,,-44,22
+US,United States,Connecticut,Litchfield County,2020-05-02,-17,-15,,,-27,9
+US,United States,Connecticut,Litchfield County,2020-05-03,-9,-15,,,-24,7
+US,United States,Connecticut,Litchfield County,2020-05-04,-19,-13,,,-41,16
+US,United States,Connecticut,Litchfield County,2020-05-05,-14,-9,100,,-41,17
+US,United States,Connecticut,Litchfield County,2020-05-06,-26,-16,47,,-41,18
+US,United States,Connecticut,Litchfield County,2020-05-07,-20,-10,,,-41,17
+US,United States,Connecticut,Litchfield County,2020-05-08,-26,-8,44,,-41,20
+US,United States,Connecticut,Litchfield County,2020-05-09,-23,-4,59,,-26,12
+US,United States,Connecticut,Middlesex County,2020-02-15,8,-5,14,,-3,0
+US,United States,Connecticut,Middlesex County,2020-02-16,4,-4,7,-25,0,0
+US,United States,Connecticut,Middlesex County,2020-02-17,14,-1,53,-4,-28,6
+US,United States,Connecticut,Middlesex County,2020-02-18,-3,-3,-6,-17,-10,3
+US,United States,Connecticut,Middlesex County,2020-02-19,-1,-4,0,-14,-3,0
+US,United States,Connecticut,Middlesex County,2020-02-20,3,-6,-4,-3,0,0
+US,United States,Connecticut,Middlesex County,2020-02-21,0,-7,-12,-15,1,1
+US,United States,Connecticut,Middlesex County,2020-02-22,14,-3,91,,2,-1
+US,United States,Connecticut,Middlesex County,2020-02-23,12,1,86,,4,-1
+US,United States,Connecticut,Middlesex County,2020-02-24,4,0,49,-16,3,0
+US,United States,Connecticut,Middlesex County,2020-02-25,0,-1,8,-21,2,0
+US,United States,Connecticut,Middlesex County,2020-02-26,4,0,0,-27,2,0
+US,United States,Connecticut,Middlesex County,2020-02-27,3,-3,9,-15,1,1
+US,United States,Connecticut,Middlesex County,2020-02-28,1,-1,0,-10,3,0
+US,United States,Connecticut,Middlesex County,2020-02-29,16,-1,32,-17,2,-2
+US,United States,Connecticut,Middlesex County,2020-03-01,12,4,-2,,1,-1
+US,United States,Connecticut,Middlesex County,2020-03-02,7,4,33,-14,3,0
+US,United States,Connecticut,Middlesex County,2020-03-03,4,6,35,-24,3,0
+US,United States,Connecticut,Middlesex County,2020-03-04,9,5,16,-21,3,-1
+US,United States,Connecticut,Middlesex County,2020-03-05,9,3,37,-12,2,0
+US,United States,Connecticut,Middlesex County,2020-03-06,2,1,2,-11,1,1
+US,United States,Connecticut,Middlesex County,2020-03-07,14,1,50,-12,1,-1
+US,United States,Connecticut,Middlesex County,2020-03-08,14,5,59,,1,0
+US,United States,Connecticut,Middlesex County,2020-03-09,11,5,119,-7,3,0
+US,United States,Connecticut,Middlesex County,2020-03-10,4,7,39,-33,2,0
+US,United States,Connecticut,Middlesex County,2020-03-11,8,9,35,-25,1,1
+US,United States,Connecticut,Middlesex County,2020-03-12,10,32,16,-17,-1,1
+US,United States,Connecticut,Middlesex County,2020-03-13,2,36,4,-11,-8,6
+US,United States,Connecticut,Middlesex County,2020-03-14,-1,17,110,-12,-4,3
+US,United States,Connecticut,Middlesex County,2020-03-15,-8,7,79,-30,-7,4
+US,United States,Connecticut,Middlesex County,2020-03-16,-3,31,40,-25,-21,9
+US,United States,Connecticut,Middlesex County,2020-03-17,-28,12,7,-35,-30,14
+US,United States,Connecticut,Middlesex County,2020-03-18,-26,5,90,-40,-33,14
+US,United States,Connecticut,Middlesex County,2020-03-19,-34,1,5,-41,-36,18
+US,United States,Connecticut,Middlesex County,2020-03-20,-33,19,29,-36,-37,19
+US,United States,Connecticut,Middlesex County,2020-03-21,-38,-1,154,-45,-26,12
+US,United States,Connecticut,Middlesex County,2020-03-22,-43,-16,71,-48,-28,11
+US,United States,Connecticut,Middlesex County,2020-03-23,-48,-21,-38,-45,-43,21
+US,United States,Connecticut,Middlesex County,2020-03-24,-45,-14,83,-44,-48,20
+US,United States,Connecticut,Middlesex County,2020-03-25,-46,-21,-1,-52,-48,22
+US,United States,Connecticut,Middlesex County,2020-03-26,-41,-14,128,-42,-49,21
+US,United States,Connecticut,Middlesex County,2020-03-27,-42,-11,126,-43,-47,23
+US,United States,Connecticut,Middlesex County,2020-03-28,-48,-17,99,-40,-36,15
+US,United States,Connecticut,Middlesex County,2020-03-29,-58,-28,-49,-60,-38,15
+US,United States,Connecticut,Middlesex County,2020-03-30,-42,-18,25,-46,-49,21
+US,United States,Connecticut,Middlesex County,2020-03-31,-41,-17,72,-57,-51,22
+US,United States,Connecticut,Middlesex County,2020-04-01,-39,-14,74,-54,-51,22
+US,United States,Connecticut,Middlesex County,2020-04-02,-42,-14,46,-47,-51,23
+US,United States,Connecticut,Middlesex County,2020-04-03,-49,-10,-14,-57,-50,27
+US,United States,Connecticut,Middlesex County,2020-04-04,-45,-17,,-57,-34,14
+US,United States,Connecticut,Middlesex County,2020-04-05,-49,-27,85,-52,-35,13
+US,United States,Connecticut,Middlesex County,2020-04-06,-37,-17,,-34,-52,20
+US,United States,Connecticut,Middlesex County,2020-04-07,-41,-17,,-43,-53,22
+US,United States,Connecticut,Middlesex County,2020-04-08,-45,-17,26,-51,-54,23
+US,United States,Connecticut,Middlesex County,2020-04-09,-48,-18,-17,-47,-55,26
+US,United States,Connecticut,Middlesex County,2020-04-10,-44,-4,42,-56,-62,28
+US,United States,Connecticut,Middlesex County,2020-04-11,-41,0,,-43,-38,14
+US,United States,Connecticut,Middlesex County,2020-04-12,-66,-47,91,-59,-46,
+US,United States,Connecticut,Middlesex County,2020-04-13,-58,-40,-41,-66,-55,25
+US,United States,Connecticut,Middlesex County,2020-04-14,-36,-12,125,-52,-52,22
+US,United States,Connecticut,Middlesex County,2020-04-15,-37,-11,71,-56,-52,22
+US,United States,Connecticut,Middlesex County,2020-04-16,-39,-13,69,-48,-52,24
+US,United States,Connecticut,Middlesex County,2020-04-17,-41,-13,70,-56,-50,24
+US,United States,Connecticut,Middlesex County,2020-04-18,-50,-21,11,-54,-36,16
+US,United States,Connecticut,Middlesex County,2020-04-19,-36,-20,,-43,-32,10
+US,United States,Connecticut,Middlesex County,2020-04-20,-38,-19,69,-54,-50,21
+US,United States,Connecticut,Middlesex County,2020-04-21,-47,-22,-4,-60,-51,24
+US,United States,Connecticut,Middlesex County,2020-04-22,-38,-17,51,-53,-51,22
+US,United States,Connecticut,Middlesex County,2020-04-23,-39,-17,66,-53,-51,23
+US,United States,Connecticut,Middlesex County,2020-04-24,-45,-17,-15,-57,-50,26
+US,United States,Connecticut,Middlesex County,2020-04-25,-30,-17,,-33,-30,10
+US,United States,Connecticut,Middlesex County,2020-04-26,-50,-26,-20,-55,-37,14
+US,United States,Connecticut,Middlesex County,2020-04-27,-40,-17,13,-54,-48,22
+US,United States,Connecticut,Middlesex County,2020-04-28,-31,-13,,-44,-50,14
+US,United States,Connecticut,Middlesex County,2020-04-29,-32,-16,84,-45,-50,21
+US,United States,Connecticut,Middlesex County,2020-04-30,-41,-15,13,-50,-50,24
+US,United States,Connecticut,Middlesex County,2020-05-01,-37,-9,75,-56,-47,23
+US,United States,Connecticut,Middlesex County,2020-05-02,-24,-9,,,-30,10
+US,United States,Connecticut,Middlesex County,2020-05-03,-18,-7,257,-38,-25,8
+US,United States,Connecticut,Middlesex County,2020-05-04,-27,-10,110,-39,-47,19
+US,United States,Connecticut,Middlesex County,2020-05-05,-22,-3,,-45,-48,19
+US,United States,Connecticut,Middlesex County,2020-05-06,-32,-11,52,-46,-48,21
+US,United States,Connecticut,Middlesex County,2020-05-07,-28,-6,156,-41,-47,20
+US,United States,Connecticut,Middlesex County,2020-05-08,-35,-4,39,-44,-46,23
+US,United States,Connecticut,Middlesex County,2020-05-09,-33,7,88,-48,-28,12
+US,United States,Connecticut,New Haven County,2020-02-15,3,-4,8,15,-2,0
+US,United States,Connecticut,New Haven County,2020-02-16,4,-3,-3,6,-1,0
+US,United States,Connecticut,New Haven County,2020-02-17,10,2,17,10,-27,6
+US,United States,Connecticut,New Haven County,2020-02-18,0,-4,-14,2,-8,3
+US,United States,Connecticut,New Haven County,2020-02-19,2,-3,11,5,-1,0
+US,United States,Connecticut,New Haven County,2020-02-20,3,-2,3,3,0,1
+US,United States,Connecticut,New Haven County,2020-02-21,0,-5,-4,2,-1,1
+US,United States,Connecticut,New Haven County,2020-02-22,8,0,56,15,4,-2
+US,United States,Connecticut,New Haven County,2020-02-23,7,2,58,15,3,-1
+US,United States,Connecticut,New Haven County,2020-02-24,1,2,32,5,4,-1
+US,United States,Connecticut,New Haven County,2020-02-25,1,-1,2,2,2,0
+US,United States,Connecticut,New Haven County,2020-02-26,6,1,3,4,2,-1
+US,United States,Connecticut,New Haven County,2020-02-27,6,2,2,6,3,0
+US,United States,Connecticut,New Haven County,2020-02-28,5,2,3,3,3,-1
+US,United States,Connecticut,New Haven County,2020-02-29,11,4,21,8,3,-2
+US,United States,Connecticut,New Haven County,2020-03-01,12,11,4,15,3,-1
+US,United States,Connecticut,New Haven County,2020-03-02,7,13,24,7,3,-1
+US,United States,Connecticut,New Haven County,2020-03-03,10,11,13,15,2,-1
+US,United States,Connecticut,New Haven County,2020-03-04,8,8,17,11,2,-1
+US,United States,Connecticut,New Haven County,2020-03-05,9,8,25,11,3,-1
+US,United States,Connecticut,New Haven County,2020-03-06,3,1,3,8,0,1
+US,United States,Connecticut,New Haven County,2020-03-07,11,8,42,19,2,-1
+US,United States,Connecticut,New Haven County,2020-03-08,9,5,50,17,1,0
+US,United States,Connecticut,New Haven County,2020-03-09,9,10,71,12,1,-1
+US,United States,Connecticut,New Haven County,2020-03-10,5,9,17,11,0,0
+US,United States,Connecticut,New Haven County,2020-03-11,6,12,24,5,-1,0
+US,United States,Connecticut,New Haven County,2020-03-12,8,35,9,-5,-2,1
+US,United States,Connecticut,New Haven County,2020-03-13,-4,28,3,-15,-14,7
+US,United States,Connecticut,New Haven County,2020-03-14,-7,16,70,-7,-3,3
+US,United States,Connecticut,New Haven County,2020-03-15,-12,6,47,-16,-7,4
+US,United States,Connecticut,New Haven County,2020-03-16,-6,27,4,-15,-22,8
+US,United States,Connecticut,New Haven County,2020-03-17,-24,8,-16,-21,-30,13
+US,United States,Connecticut,New Haven County,2020-03-18,-25,5,20,-23,-32,13
+US,United States,Connecticut,New Haven County,2020-03-19,-31,2,-21,-32,-35,17
+US,United States,Connecticut,New Haven County,2020-03-20,-30,12,0,-34,-36,17
+US,United States,Connecticut,New Haven County,2020-03-21,-37,2,66,-32,-24,11
+US,United States,Connecticut,New Haven County,2020-03-22,-43,-12,18,-44,-27,11
+US,United States,Connecticut,New Haven County,2020-03-23,-47,-23,-50,-45,-43,20
+US,United States,Connecticut,New Haven County,2020-03-24,-40,-14,6,-35,-46,20
+US,United States,Connecticut,New Haven County,2020-03-25,-45,-20,-31,-43,-47,21
+US,United States,Connecticut,New Haven County,2020-03-26,-39,-14,29,-39,-46,20
+US,United States,Connecticut,New Haven County,2020-03-27,-41,-16,32,-45,-46,22
+US,United States,Connecticut,New Haven County,2020-03-28,-49,-20,4,-52,-34,14
+US,United States,Connecticut,New Haven County,2020-03-29,-56,-31,-52,-62,-36,14
+US,United States,Connecticut,New Haven County,2020-03-30,-42,-18,-18,-44,-47,20
+US,United States,Connecticut,New Haven County,2020-03-31,-40,-17,-12,-41,-49,21
+US,United States,Connecticut,New Haven County,2020-04-01,-37,-10,10,-40,-50,20
+US,United States,Connecticut,New Haven County,2020-04-02,-41,-10,-15,-44,-50,22
+US,United States,Connecticut,New Haven County,2020-04-03,-44,-10,-41,-54,-50,25
+US,United States,Connecticut,New Haven County,2020-04-04,-46,-12,51,-49,-35,14
+US,United States,Connecticut,New Haven County,2020-04-05,-50,-23,7,-58,-38,13
+US,United States,Connecticut,New Haven County,2020-04-06,-39,-13,26,-43,-50,20
+US,United States,Connecticut,New Haven County,2020-04-07,-39,-14,12,-41,-52,21
+US,United States,Connecticut,New Haven County,2020-04-08,-44,-17,-17,-44,-53,22
+US,United States,Connecticut,New Haven County,2020-04-09,-46,-17,-37,-51,-54,24
+US,United States,Connecticut,New Haven County,2020-04-10,-44,-10,-21,-56,-62,27
+US,United States,Connecticut,New Haven County,2020-04-11,-44,-8,43,-50,-39,14
+US,United States,Connecticut,New Haven County,2020-04-12,-63,-48,11,-59,-44,13
+US,United States,Connecticut,New Haven County,2020-04-13,-57,-40,-58,-57,-54,25
+US,United States,Connecticut,New Haven County,2020-04-14,-36,-14,12,-39,-51,21
+US,United States,Connecticut,New Haven County,2020-04-15,-33,-14,3,-42,-51,21
+US,United States,Connecticut,New Haven County,2020-04-16,-36,-15,-8,-43,-51,22
+US,United States,Connecticut,New Haven County,2020-04-17,-39,-18,-9,-49,-50,23
+US,United States,Connecticut,New Haven County,2020-04-18,-48,-22,-18,-55,-37,16
+US,United States,Connecticut,New Haven County,2020-04-19,-38,-20,59,-50,-33,11
+US,United States,Connecticut,New Haven County,2020-04-20,-36,-18,-6,-42,-49,20
+US,United States,Connecticut,New Haven County,2020-04-21,-43,-25,-36,-45,-51,23
+US,United States,Connecticut,New Haven County,2020-04-22,-36,-17,-10,-39,-50,21
+US,United States,Connecticut,New Haven County,2020-04-23,-38,-19,-16,-43,-49,22
+US,United States,Connecticut,New Haven County,2020-04-24,-43,-24,-39,-53,-50,25
+US,United States,Connecticut,New Haven County,2020-04-25,-35,-16,116,-40,-33,11
+US,United States,Connecticut,New Haven County,2020-04-26,-49,-28,-42,-60,-36,14
+US,United States,Connecticut,New Haven County,2020-04-27,-37,-18,-27,-43,-48,20
+US,United States,Connecticut,New Haven County,2020-04-28,-29,-14,32,-34,-48,13
+US,United States,Connecticut,New Haven County,2020-04-29,-33,-17,-5,-38,-49,20
+US,United States,Connecticut,New Haven County,2020-04-30,-39,-18,-31,-44,-49,22
+US,United States,Connecticut,New Haven County,2020-05-01,-34,-12,-4,-43,-47,22
+US,United States,Connecticut,New Haven County,2020-05-02,-29,-10,126,-32,-29,10
+US,United States,Connecticut,New Haven County,2020-05-03,-28,-11,97,-39,-28,8
+US,United States,Connecticut,New Haven County,2020-05-04,-27,-8,10,-35,-46,17
+US,United States,Connecticut,New Haven County,2020-05-05,-22,-4,23,-31,-46,17
+US,United States,Connecticut,New Haven County,2020-05-06,-31,-13,-10,-35,-47,19
+US,United States,Connecticut,New Haven County,2020-05-07,-27,-8,39,-33,-46,18
+US,United States,Connecticut,New Haven County,2020-05-08,-36,-11,-21,-43,-45,21
+US,United States,Connecticut,New Haven County,2020-05-09,-32,3,22,-41,-29,11
+US,United States,Connecticut,New London County,2020-02-15,9,-1,11,12,-5,0
+US,United States,Connecticut,New London County,2020-02-16,15,-2,-4,1,-3,-1
+US,United States,Connecticut,New London County,2020-02-17,16,0,30,14,-27,6
+US,United States,Connecticut,New London County,2020-02-18,3,-3,-15,13,-9,3
+US,United States,Connecticut,New London County,2020-02-19,6,-1,10,3,1,0
+US,United States,Connecticut,New London County,2020-02-20,3,0,1,2,1,0
+US,United States,Connecticut,New London County,2020-02-21,3,-2,-3,6,2,0
+US,United States,Connecticut,New London County,2020-02-22,11,0,54,8,2,-1
+US,United States,Connecticut,New London County,2020-02-23,12,5,41,14,-1,-1
+US,United States,Connecticut,New London County,2020-02-24,5,1,36,7,3,0
+US,United States,Connecticut,New London County,2020-02-25,3,1,3,3,4,0
+US,United States,Connecticut,New London County,2020-02-26,4,3,6,1,3,-1
+US,United States,Connecticut,New London County,2020-02-27,0,2,1,-7,2,0
+US,United States,Connecticut,New London County,2020-02-28,-4,2,-1,3,4,0
+US,United States,Connecticut,New London County,2020-02-29,-1,1,28,1,4,-1
+US,United States,Connecticut,New London County,2020-03-01,3,8,-3,1,7,-1
+US,United States,Connecticut,New London County,2020-03-02,1,7,26,-1,5,0
+US,United States,Connecticut,New London County,2020-03-03,2,10,20,1,6,-1
+US,United States,Connecticut,New London County,2020-03-04,3,6,18,3,5,-1
+US,United States,Connecticut,New London County,2020-03-05,1,7,22,7,3,-1
+US,United States,Connecticut,New London County,2020-03-06,-4,4,3,1,4,0
+US,United States,Connecticut,New London County,2020-03-07,0,5,39,1,4,-1
+US,United States,Connecticut,New London County,2020-03-08,4,7,36,4,3,-1
+US,United States,Connecticut,New London County,2020-03-09,5,11,75,-1,5,-1
+US,United States,Connecticut,New London County,2020-03-10,1,10,16,2,5,0
+US,United States,Connecticut,New London County,2020-03-11,6,11,26,-1,2,0
+US,United States,Connecticut,New London County,2020-03-12,5,26,12,-10,-1,0
+US,United States,Connecticut,New London County,2020-03-13,-2,41,2,-16,-9,5
+US,United States,Connecticut,New London County,2020-03-14,-8,26,82,-18,-4,3
+US,United States,Connecticut,New London County,2020-03-15,-12,14,43,-24,-10,4
+US,United States,Connecticut,New London County,2020-03-16,-6,35,21,-19,-18,8
+US,United States,Connecticut,New London County,2020-03-17,-29,10,-11,-30,-27,12
+US,United States,Connecticut,New London County,2020-03-18,-29,8,50,-28,-31,13
+US,United States,Connecticut,New London County,2020-03-19,-36,3,-7,-37,-34,16
+US,United States,Connecticut,New London County,2020-03-20,-34,14,14,-28,-35,18
+US,United States,Connecticut,New London County,2020-03-21,-43,2,94,-41,-31,12
+US,United States,Connecticut,New London County,2020-03-22,-45,-12,28,-51,-34,11
+US,United States,Connecticut,New London County,2020-03-23,-45,-18,-32,-44,-39,19
+US,United States,Connecticut,New London County,2020-03-24,-43,-17,30,-37,-43,19
+US,United States,Connecticut,New London County,2020-03-25,-46,-15,-11,-36,-45,20
+US,United States,Connecticut,New London County,2020-03-26,-42,-12,62,-42,-44,19
+US,United States,Connecticut,New London County,2020-03-27,-43,-12,66,-42,-44,21
+US,United States,Connecticut,New London County,2020-03-28,-50,-17,42,-55,-39,15
+US,United States,Connecticut,New London County,2020-03-29,-56,-28,-45,-67,-41,15
+US,United States,Connecticut,New London County,2020-03-30,-42,-14,6,-45,-43,19
+US,United States,Connecticut,New London County,2020-03-31,-41,-15,25,-40,-44,19
+US,United States,Connecticut,New London County,2020-04-01,-40,-9,26,-43,-46,20
+US,United States,Connecticut,New London County,2020-04-02,-44,-13,3,-47,-47,21
+US,United States,Connecticut,New London County,2020-04-03,-48,-11,-25,-49,-47,25
+US,United States,Connecticut,New London County,2020-04-04,-50,-12,76,-54,-40,15
+US,United States,Connecticut,New London County,2020-04-05,-51,-20,22,-60,-39,13
+US,United States,Connecticut,New London County,2020-04-06,-40,-14,79,-40,-46,19
+US,United States,Connecticut,New London County,2020-04-07,-42,-14,50,-42,-47,20
+US,United States,Connecticut,New London County,2020-04-08,-46,-17,0,-45,-49,21
+US,United States,Connecticut,New London County,2020-04-09,-50,-21,-22,-50,-50,23
+US,United States,Connecticut,New London County,2020-04-10,-44,-5,3,-46,-58,26
+US,United States,Connecticut,New London County,2020-04-11,-45,-3,83,-50,-41,15
+US,United States,Connecticut,New London County,2020-04-12,-69,-51,34,,-48,13
+US,United States,Connecticut,New London County,2020-04-13,-60,-40,-41,,-51,24
+US,United States,Connecticut,New London County,2020-04-14,-41,-11,58,,-47,19
+US,United States,Connecticut,New London County,2020-04-15,-39,-11,30,,-48,20
+US,United States,Connecticut,New London County,2020-04-16,-43,-14,25,,-48,21
+US,United States,Connecticut,New London County,2020-04-17,-46,-15,19,,-46,23
+US,United States,Connecticut,New London County,2020-04-18,-56,-20,-8,,-39,17
+US,United States,Connecticut,New London County,2020-04-19,-44,-16,81,,-34,11
+US,United States,Connecticut,New London County,2020-04-20,-43,-16,26,,-45,19
+US,United States,Connecticut,New London County,2020-04-21,-50,-22,-19,,-46,21
+US,United States,Connecticut,New London County,2020-04-22,-43,-14,17,,-47,20
+US,United States,Connecticut,New London County,2020-04-23,-45,-17,19,,-47,21
+US,United States,Connecticut,New London County,2020-04-24,-50,-19,-26,,-47,25
+US,United States,Connecticut,New London County,2020-04-25,-43,-12,192,,-33,11
+US,United States,Connecticut,New London County,2020-04-26,-54,-23,-32,,-37,14
+US,United States,Connecticut,New London County,2020-04-27,-44,-17,-7,,-45,20
+US,United States,Connecticut,New London County,2020-04-28,-37,-10,54,,-45,13
+US,United States,Connecticut,New London County,2020-04-29,-39,-13,42,,-46,19
+US,United States,Connecticut,New London County,2020-04-30,-47,-19,-13,,-48,22
+US,United States,Connecticut,New London County,2020-05-01,-42,-10,36,,-44,22
+US,United States,Connecticut,New London County,2020-05-02,-39,-5,184,,-30,11
+US,United States,Connecticut,New London County,2020-05-03,-33,-3,126,,-28,9
+US,United States,Connecticut,New London County,2020-05-04,-33,-8,56,,-43,17
+US,United States,Connecticut,New London County,2020-05-05,-31,1,57,,-42,17
+US,United States,Connecticut,New London County,2020-05-06,-37,-9,14,,-44,19
+US,United States,Connecticut,New London County,2020-05-07,-36,-8,68,,-44,18
+US,United States,Connecticut,New London County,2020-05-08,-43,-9,12,,-43,21
+US,United States,Connecticut,New London County,2020-05-09,-45,5,47,,-30,13
+US,United States,Connecticut,Tolland County,2020-02-15,3,2,4,31,1,-1
+US,United States,Connecticut,Tolland County,2020-02-16,4,0,-5,4,0,-1
+US,United States,Connecticut,Tolland County,2020-02-17,16,2,,12,-26,6
+US,United States,Connecticut,Tolland County,2020-02-18,2,-3,-15,-2,-8,3
+US,United States,Connecticut,Tolland County,2020-02-19,3,2,8,8,1,0
+US,United States,Connecticut,Tolland County,2020-02-20,4,5,4,5,3,0
+US,United States,Connecticut,Tolland County,2020-02-21,6,-2,4,7,5,0
+US,United States,Connecticut,Tolland County,2020-02-22,10,4,,13,3,-2
+US,United States,Connecticut,Tolland County,2020-02-23,17,7,80,32,4,-1
+US,United States,Connecticut,Tolland County,2020-02-24,5,5,,8,5,-1
+US,United States,Connecticut,Tolland County,2020-02-25,3,1,,-5,4,0
+US,United States,Connecticut,Tolland County,2020-02-26,3,0,-8,0,3,0
+US,United States,Connecticut,Tolland County,2020-02-27,6,2,,5,2,0
+US,United States,Connecticut,Tolland County,2020-02-28,10,2,0,11,4,-1
+US,United States,Connecticut,Tolland County,2020-02-29,9,1,16,8,4,-2
+US,United States,Connecticut,Tolland County,2020-03-01,11,5,-4,16,4,-1
+US,United States,Connecticut,Tolland County,2020-03-02,8,2,,6,5,0
+US,United States,Connecticut,Tolland County,2020-03-03,7,7,,0,4,-1
+US,United States,Connecticut,Tolland County,2020-03-04,5,6,22,-10,3,0
+US,United States,Connecticut,Tolland County,2020-03-05,13,6,,4,4,-1
+US,United States,Connecticut,Tolland County,2020-03-06,8,3,20,4,4,0
+US,United States,Connecticut,Tolland County,2020-03-07,14,3,,10,5,-2
+US,United States,Connecticut,Tolland County,2020-03-08,22,-1,60,12,5,-1
+US,United States,Connecticut,Tolland County,2020-03-09,16,-1,,1,4,-1
+US,United States,Connecticut,Tolland County,2020-03-10,11,6,,10,2,0
+US,United States,Connecticut,Tolland County,2020-03-11,12,7,,7,3,0
+US,United States,Connecticut,Tolland County,2020-03-12,14,34,,2,1,1
+US,United States,Connecticut,Tolland County,2020-03-13,3,34,4,0,-2,4
+US,United States,Connecticut,Tolland County,2020-03-14,-5,17,,5,0,3
+US,United States,Connecticut,Tolland County,2020-03-15,-8,1,78,-2,-10,4
+US,United States,Connecticut,Tolland County,2020-03-16,-3,28,,-5,-23,10
+US,United States,Connecticut,Tolland County,2020-03-17,-28,9,,-6,-33,15
+US,United States,Connecticut,Tolland County,2020-03-18,-26,7,,-3,-34,15
+US,United States,Connecticut,Tolland County,2020-03-19,-34,1,,-8,-38,18
+US,United States,Connecticut,Tolland County,2020-03-20,-36,13,,-15,-38,19
+US,United States,Connecticut,Tolland County,2020-03-21,-42,-4,,-13,-26,11
+US,United States,Connecticut,Tolland County,2020-03-22,-43,-19,81,-24,-30,10
+US,United States,Connecticut,Tolland County,2020-03-23,-50,-28,-14,-22,-45,21
+US,United States,Connecticut,Tolland County,2020-03-24,-48,-20,,-17,-50,23
+US,United States,Connecticut,Tolland County,2020-03-25,-51,-22,,-19,-52,24
+US,United States,Connecticut,Tolland County,2020-03-26,-42,-15,,-22,-51,23
+US,United States,Connecticut,Tolland County,2020-03-27,-45,-16,,-28,-49,23
+US,United States,Connecticut,Tolland County,2020-03-28,-50,-19,,-26,-33,14
+US,United States,Connecticut,Tolland County,2020-03-29,-59,-33,-38,-38,-37,
+US,United States,Connecticut,Tolland County,2020-03-30,-47,-22,,-21,-51,22
+US,United States,Connecticut,Tolland County,2020-03-31,-44,-18,,-21,-52,23
+US,United States,Connecticut,Tolland County,2020-04-01,-43,-15,,-24,-53,23
+US,United States,Connecticut,Tolland County,2020-04-02,-47,-14,,-26,-54,24
+US,United States,Connecticut,Tolland County,2020-04-03,-50,-16,0,-43,-54,26
+US,United States,Connecticut,Tolland County,2020-04-04,-50,-20,,-30,-38,14
+US,United States,Connecticut,Tolland County,2020-04-05,-48,-29,96,-43,-39,
+US,United States,Connecticut,Tolland County,2020-04-06,-39,-19,,-32,-53,21
+US,United States,Connecticut,Tolland County,2020-04-07,-42,-20,,-25,-56,23
+US,United States,Connecticut,Tolland County,2020-04-08,-48,-17,,-33,-55,24
+US,United States,Connecticut,Tolland County,2020-04-09,-51,-16,4,-31,-56,26
+US,United States,Connecticut,Tolland County,2020-04-10,-45,-4,,-42,-63,28
+US,United States,Connecticut,Tolland County,2020-04-11,-46,-3,,-34,-40,14
+US,United States,Connecticut,Tolland County,2020-04-12,-71,-60,,-42,-45,
+US,United States,Connecticut,Tolland County,2020-04-13,-60,-48,-28,-36,-56,26
+US,United States,Connecticut,Tolland County,2020-04-14,-39,-11,,-28,-55,22
+US,United States,Connecticut,Tolland County,2020-04-15,-39,-13,,-26,-54,23
+US,United States,Connecticut,Tolland County,2020-04-16,-43,-14,,-31,-55,24
+US,United States,Connecticut,Tolland County,2020-04-17,-46,-15,,-33,-52,25
+US,United States,Connecticut,Tolland County,2020-04-18,-58,-24,-4,-41,-38,16
+US,United States,Connecticut,Tolland County,2020-04-19,-39,-24,,-35,-34,10
+US,United States,Connecticut,Tolland County,2020-04-20,-43,-20,,-29,-52,21
+US,United States,Connecticut,Tolland County,2020-04-21,-50,-25,12,-28,-54,25
+US,United States,Connecticut,Tolland County,2020-04-22,-45,-16,,-28,-53,23
+US,United States,Connecticut,Tolland County,2020-04-23,-43,-14,,-28,-53,23
+US,United States,Connecticut,Tolland County,2020-04-24,-50,-21,-1,-36,-52,26
+US,United States,Connecticut,Tolland County,2020-04-25,-39,-15,,-20,-34,10
+US,United States,Connecticut,Tolland County,2020-04-26,-52,-28,-20,-35,-36,13
+US,United States,Connecticut,Tolland County,2020-04-27,-43,-22,,-31,-52,23
+US,United States,Connecticut,Tolland County,2020-04-28,-36,-14,,-17,-53,16
+US,United States,Connecticut,Tolland County,2020-04-29,-37,-14,,-19,-53,22
+US,United States,Connecticut,Tolland County,2020-04-30,-45,-15,,-24,-53,24
+US,United States,Connecticut,Tolland County,2020-05-01,-44,-14,,-32,-51,24
+US,United States,Connecticut,Tolland County,2020-05-02,-36,-10,,-15,-30,9
+US,United States,Connecticut,Tolland County,2020-05-03,-26,-15,,-26,-31,7
+US,United States,Connecticut,Tolland County,2020-05-04,-35,-13,,-18,-50,20
+US,United States,Connecticut,Tolland County,2020-05-05,-28,-2,,-13,-51,20
+US,United States,Connecticut,Tolland County,2020-05-06,-38,-10,,-22,-51,22
+US,United States,Connecticut,Tolland County,2020-05-07,-35,-3,,-17,-51,20
+US,United States,Connecticut,Tolland County,2020-05-08,-40,-8,,-27,-49,23
+US,United States,Connecticut,Tolland County,2020-05-09,-39,9,,-28,-30,12
+US,United States,Connecticut,Windham County,2020-02-15,2,-7,-4,-7,-1,0
+US,United States,Connecticut,Windham County,2020-02-16,-1,-5,-7,,1,0
+US,United States,Connecticut,Windham County,2020-02-17,8,0,29,-4,-27,6
+US,United States,Connecticut,Windham County,2020-02-18,-2,-7,-21,-14,-10,3
+US,United States,Connecticut,Windham County,2020-02-19,2,-9,5,-10,1,0
+US,United States,Connecticut,Windham County,2020-02-20,6,-4,11,-15,3,0
+US,United States,Connecticut,Windham County,2020-02-21,2,-11,-7,0,3,1
+US,United States,Connecticut,Windham County,2020-02-22,8,-5,22,-5,4,-1
+US,United States,Connecticut,Windham County,2020-02-23,9,-4,42,,3,-1
+US,United States,Connecticut,Windham County,2020-02-24,9,-3,44,-6,5,0
+US,United States,Connecticut,Windham County,2020-02-25,4,-3,6,-12,3,0
+US,United States,Connecticut,Windham County,2020-02-26,10,0,15,4,2,-1
+US,United States,Connecticut,Windham County,2020-02-27,7,-6,-2,-15,3,0
+US,United States,Connecticut,Windham County,2020-02-28,7,-7,-5,-3,3,0
+US,United States,Connecticut,Windham County,2020-02-29,9,-5,-1,0,5,-1
+US,United States,Connecticut,Windham County,2020-03-01,12,0,0,,5,-1
+US,United States,Connecticut,Windham County,2020-03-02,11,4,26,-8,5,-1
+US,United States,Connecticut,Windham County,2020-03-03,12,5,30,0,4,-1
+US,United States,Connecticut,Windham County,2020-03-04,13,0,16,2,3,-1
+US,United States,Connecticut,Windham County,2020-03-05,11,-1,29,-11,5,-1
+US,United States,Connecticut,Windham County,2020-03-06,4,-5,-9,-11,-2,1
+US,United States,Connecticut,Windham County,2020-03-07,14,-2,13,-7,5,-1
+US,United States,Connecticut,Windham County,2020-03-08,8,-5,31,,4,-1
+US,United States,Connecticut,Windham County,2020-03-09,15,5,81,-8,5,-1
+US,United States,Connecticut,Windham County,2020-03-10,8,3,23,-14,4,0
+US,United States,Connecticut,Windham County,2020-03-11,10,7,32,-4,2,0
+US,United States,Connecticut,Windham County,2020-03-12,17,30,16,-17,3,0
+US,United States,Connecticut,Windham County,2020-03-13,10,44,-3,-27,-2,3
+US,United States,Connecticut,Windham County,2020-03-14,5,21,28,-23,2,3
+US,United States,Connecticut,Windham County,2020-03-15,-4,9,24,-29,-4,3
+US,United States,Connecticut,Windham County,2020-03-16,4,30,9,-12,-16,7
+US,United States,Connecticut,Windham County,2020-03-17,-21,11,-11,-37,-24,11
+US,United States,Connecticut,Windham County,2020-03-18,-17,11,49,-22,-26,11
+US,United States,Connecticut,Windham County,2020-03-19,-21,8,-18,-38,-29,15
+US,United States,Connecticut,Windham County,2020-03-20,-19,22,-9,-40,-31,15
+US,United States,Connecticut,Windham County,2020-03-21,-25,5,24,-45,-20,10
+US,United States,Connecticut,Windham County,2020-03-22,-30,-6,-5,-50,-23,9
+US,United States,Connecticut,Windham County,2020-03-23,-35,-15,-42,-49,-34,16
+US,United States,Connecticut,Windham County,2020-03-24,-32,-12,-2,-53,-39,17
+US,United States,Connecticut,Windham County,2020-03-25,-35,-16,-27,-53,-40,19
+US,United States,Connecticut,Windham County,2020-03-26,-27,-11,41,-51,-39,17
+US,United States,Connecticut,Windham County,2020-03-27,-28,-12,21,-48,-40,19
+US,United States,Connecticut,Windham County,2020-03-28,-32,-17,20,-61,-30,13
+US,United States,Connecticut,Windham County,2020-03-29,-42,-27,-58,-69,-32,12
+US,United States,Connecticut,Windham County,2020-03-30,-31,-16,-26,-51,-40,17
+US,United States,Connecticut,Windham County,2020-03-31,-26,-11,6,-55,-41,17
+US,United States,Connecticut,Windham County,2020-04-01,-28,-8,8,-51,-42,18
+US,United States,Connecticut,Windham County,2020-04-02,-31,-5,-17,-60,-43,19
+US,United States,Connecticut,Windham County,2020-04-03,-36,-1,-37,-63,-44,23
+US,United States,Connecticut,Windham County,2020-04-04,-35,-8,7,-66,-34,14
+US,United States,Connecticut,Windham County,2020-04-05,-39,-22,24,,-32,11
+US,United States,Connecticut,Windham County,2020-04-06,-24,-10,44,-55,-42,16
+US,United States,Connecticut,Windham County,2020-04-07,-29,-9,30,-53,-44,18
+US,United States,Connecticut,Windham County,2020-04-08,-34,-13,-13,-53,-45,19
+US,United States,Connecticut,Windham County,2020-04-09,-38,-11,-37,-58,-46,21
+US,United States,Connecticut,Windham County,2020-04-10,-31,2,-15,-59,-55,24
+US,United States,Connecticut,Windham County,2020-04-11,-27,4,22,-57,-35,13
+US,United States,Connecticut,Windham County,2020-04-12,-55,-55,11,-66,-39,11
+US,United States,Connecticut,Windham County,2020-04-13,-39,-39,-53,-54,-46,20
+US,United States,Connecticut,Windham County,2020-04-14,-17,-8,29,-47,-43,16
+US,United States,Connecticut,Windham County,2020-04-15,-12,-7,18,-48,-42,18
+US,United States,Connecticut,Windham County,2020-04-16,-19,-6,7,-47,-42,19
+US,United States,Connecticut,Windham County,2020-04-17,-24,-8,-5,-49,-42,20
+US,United States,Connecticut,Windham County,2020-04-18,-38,-21,-43,-63,-33,15
+US,United States,Connecticut,Windham County,2020-04-19,-21,-18,47,-58,-25,8
+US,United States,Connecticut,Windham County,2020-04-20,-20,-13,19,-44,-40,17
+US,United States,Connecticut,Windham County,2020-04-21,-29,-15,-30,-39,-42,20
+US,United States,Connecticut,Windham County,2020-04-22,-23,-8,-1,-39,-43,18
+US,United States,Connecticut,Windham County,2020-04-23,-22,-13,8,-40,-42,18
+US,United States,Connecticut,Windham County,2020-04-24,-29,-12,-32,-50,-42,22
+US,United States,Connecticut,Windham County,2020-04-25,-16,-15,,-39,-27,10
+US,United States,Connecticut,Windham County,2020-04-26,-31,-19,-34,-52,-28,11
+US,United States,Connecticut,Windham County,2020-04-27,-23,-12,-27,-41,-39,18
+US,United States,Connecticut,Windham County,2020-04-28,-16,-2,21,-37,-42,11
+US,United States,Connecticut,Windham County,2020-04-29,-15,-6,53,-29,-42,17
+US,United States,Connecticut,Windham County,2020-04-30,-24,-8,-29,-42,-43,20
+US,United States,Connecticut,Windham County,2020-05-01,-19,-2,4,-40,-41,20
+US,United States,Connecticut,Windham County,2020-05-02,-9,-3,86,-37,-24,8
+US,United States,Connecticut,Windham County,2020-05-03,-2,-4,85,-32,-22,6
+US,United States,Connecticut,Windham County,2020-05-04,-7,4,25,-41,-38,14
+US,United States,Connecticut,Windham County,2020-05-05,-7,12,24,-35,-38,15
+US,United States,Connecticut,Windham County,2020-05-06,-13,-1,25,-35,-40,16
+US,United States,Connecticut,Windham County,2020-05-07,-11,4,49,-37,-40,16
+US,United States,Connecticut,Windham County,2020-05-08,-21,1,-3,-39,-39,19
+US,United States,Connecticut,Windham County,2020-05-09,-14,15,7,-41,-24,11
+US,United States,New York,,2020-02-15,3,-4,-2,-4,1,0
+US,United States,New York,,2020-02-16,7,-3,13,0,0,-1
+US,United States,New York,,2020-02-17,7,-2,23,-22,-37,9
+US,United States,New York,,2020-02-18,-2,-5,-4,-5,-10,3
+US,United States,New York,,2020-02-19,3,-2,11,-3,-9,2
+US,United States,New York,,2020-02-20,2,-3,0,-3,-9,2
+US,United States,New York,,2020-02-21,-1,-5,-8,-6,-9,3
+US,United States,New York,,2020-02-22,8,0,29,3,4,-1
+US,United States,New York,,2020-02-23,9,2,54,3,3,-1
+US,United States,New York,,2020-02-24,3,0,25,-1,4,0
+US,United States,New York,,2020-02-25,-1,-2,-1,-1,3,0
+US,United States,New York,,2020-02-26,4,3,-1,0,3,0
+US,United States,New York,,2020-02-27,-1,-2,-4,0,0,1
+US,United States,New York,,2020-02-28,1,0,-9,0,3,1
+US,United States,New York,,2020-02-29,7,1,-5,-1,4,0
+US,United States,New York,,2020-03-01,10,5,9,0,3,-1
+US,United States,New York,,2020-03-02,6,5,16,-1,4,0
+US,United States,New York,,2020-03-03,4,6,6,0,4,0
+US,United States,New York,,2020-03-04,7,8,16,0,3,0
+US,United States,New York,,2020-03-05,8,9,21,0,4,-1
+US,United States,New York,,2020-03-06,-1,0,-11,-3,3,1
+US,United States,New York,,2020-03-07,10,8,17,0,6,-1
+US,United States,New York,,2020-03-08,10,7,61,0,2,-1
+US,United States,New York,,2020-03-09,7,8,62,-4,1,0
+US,United States,New York,,2020-03-10,1,7,14,-7,-1,1
+US,United States,New York,,2020-03-11,3,11,20,-8,-1,1
+US,United States,New York,,2020-03-12,1,27,6,-13,-3,2
+US,United States,New York,,2020-03-13,-6,28,1,-19,-8,5
+US,United States,New York,,2020-03-14,-9,21,20,-20,-2,4
+US,United States,New York,,2020-03-15,-14,14,28,-25,-7,4
+US,United States,New York,,2020-03-16,-15,24,-10,-36,-25,10
+US,United States,New York,,2020-03-17,-31,13,-16,-42,-32,14
+US,United States,New York,,2020-03-18,-33,10,7,-44,-36,16
+US,United States,New York,,2020-03-19,-39,2,-16,-50,-40,18
+US,United States,New York,,2020-03-20,-40,8,-9,-50,-43,20
+US,United States,New York,,2020-03-21,-46,0,-1,-50,-30,13
+US,United States,New York,,2020-03-22,-54,-19,-15,-59,-36,13
+US,United States,New York,,2020-03-23,-62,-37,-64,-69,-57,26
+US,United States,New York,,2020-03-24,-53,-18,-16,-63,-56,25
+US,United States,New York,,2020-03-25,-56,-23,-38,-66,-57,26
+US,United States,New York,,2020-03-26,-52,-18,1,-64,-57,25
+US,United States,New York,,2020-03-27,-54,-20,-7,-64,-57,27
+US,United States,New York,,2020-03-28,-61,-28,-52,-67,-45,18
+US,United States,New York,,2020-03-29,-62,-32,-47,-68,-46,16
+US,United States,New York,,2020-03-30,-55,-26,-40,-69,-60,26
+US,United States,New York,,2020-03-31,-55,-24,-36,-69,-61,26
+US,United States,New York,,2020-04-01,-52,-18,-13,-67,-61,26
+US,United States,New York,,2020-04-02,-54,-20,-26,-69,-62,27
+US,United States,New York,,2020-04-03,-57,-22,-56,-70,-62,30
+US,United States,New York,,2020-04-04,-58,-21,-5,-65,-47,18
+US,United States,New York,,2020-04-05,-59,-28,-11,-68,-47,15
+US,United States,New York,,2020-04-06,-53,-21,-3,-69,-62,26
+US,United States,New York,,2020-04-07,-60,-11,-6,-69,-63,26
+US,United States,New York,,2020-04-08,-62,-12,-23,-70,-63,27
+US,United States,New York,,2020-04-09,-65,-15,-46,-73,-65,29
+US,United States,New York,,2020-04-10,-65,-13,-53,-72,-66,32
+US,United States,New York,,2020-04-11,-62,-4,-12,-65,-48,18
+US,United States,New York,,2020-04-12,-75,-44,-10,-68,-51,15
+US,United States,New York,,2020-04-13,-70,-39,-59,-76,-64,29
+US,United States,New York,,2020-04-14,-60,-19,-15,-68,-61,26
+US,United States,New York,,2020-04-15,-59,-20,-25,-69,-61,27
+US,United States,New York,,2020-04-16,-61,-20,-35,-70,-61,27
+US,United States,New York,,2020-04-17,-62,-22,-43,-68,-60,29
+US,United States,New York,,2020-04-18,-65,-25,-40,-67,-45,18
+US,United States,New York,,2020-04-19,-62,-26,11,-64,-43,14
+US,United States,New York,,2020-04-20,-59,-23,-19,-68,-59,25
+US,United States,New York,,2020-04-21,-63,-27,-43,-71,-60,27
+US,United States,New York,,2020-04-22,-60,-19,-28,-68,-59,26
+US,United States,New York,,2020-04-23,-60,-20,-32,-69,-59,26
+US,United States,New York,,2020-04-24,-63,-25,-50,-70,-59,29
+US,United States,New York,,2020-04-25,-57,-15,45,-58,-41,14
+US,United States,New York,,2020-04-26,-66,-33,-58,-70,-44,15
+US,United States,New York,,2020-04-27,-59,-23,-37,-68,-58,25
+US,United States,New York,,2020-04-28,-54,-15,22,-64,-57,18
+US,United States,New York,,2020-04-29,-56,-19,-27,-67,-58,25
+US,United States,New York,,2020-04-30,-58,-21,-45,-69,-58,26
+US,United States,New York,,2020-05-01,-55,-15,-28,-64,-56,26
+US,United States,New York,,2020-05-02,-51,-10,63,-54,-38,13
+US,United States,New York,,2020-05-03,-50,-16,71,-57,-36,10
+US,United States,New York,,2020-05-04,-51,-17,-11,-64,-55,23
+US,United States,New York,,2020-05-05,-49,-9,4,-63,-55,22
+US,United States,New York,,2020-05-06,-54,-16,-30,-65,-55,24
+US,United States,New York,,2020-05-07,-50,-8,16,-62,-55,22
+US,United States,New York,,2020-05-08,-55,-14,-40,-65,-54,25
+US,United States,New York,,2020-05-09,-53,-6,-29,-59,-37,15
+US,United States,New York,Albany County,2020-02-15,8,-4,45,4,0,0
+US,United States,New York,Albany County,2020-02-16,7,-6,8,-1,2,-1
+US,United States,New York,Albany County,2020-02-17,11,2,-23,-7,-41,9
+US,United States,New York,Albany County,2020-02-18,-7,-7,-33,0,-9,3
+US,United States,New York,Albany County,2020-02-19,4,-3,-21,2,-8,2
+US,United States,New York,Albany County,2020-02-20,2,-3,-8,-2,-8,2
+US,United States,New York,Albany County,2020-02-21,1,-5,-10,-5,-9,3
+US,United States,New York,Albany County,2020-02-22,9,-3,78,6,4,-1
+US,United States,New York,Albany County,2020-02-23,9,0,121,7,4,-2
+US,United States,New York,Albany County,2020-02-24,7,2,57,3,3,-1
+US,United States,New York,Albany County,2020-02-25,4,0,12,4,4,0
+US,United States,New York,Albany County,2020-02-26,6,-1,-2,4,3,0
+US,United States,New York,Albany County,2020-02-27,2,1,-4,4,3,0
+US,United States,New York,Albany County,2020-02-28,6,7,-1,4,2,0
+US,United States,New York,Albany County,2020-02-29,11,4,16,11,4,-1
+US,United States,New York,Albany County,2020-03-01,10,13,19,4,7,-1
+US,United States,New York,Albany County,2020-03-02,11,15,29,5,3,0
+US,United States,New York,Albany County,2020-03-03,8,15,41,8,3,-1
+US,United States,New York,Albany County,2020-03-04,7,8,6,2,3,0
+US,United States,New York,Albany County,2020-03-05,5,13,18,2,3,-1
+US,United States,New York,Albany County,2020-03-06,6,10,12,7,3,0
+US,United States,New York,Albany County,2020-03-07,12,12,78,11,6,-1
+US,United States,New York,Albany County,2020-03-08,9,13,186,7,2,-1
+US,United States,New York,Albany County,2020-03-09,10,16,114,4,2,-1
+US,United States,New York,Albany County,2020-03-10,0,9,-2,0,2,1
+US,United States,New York,Albany County,2020-03-11,3,15,11,2,0,1
+US,United States,New York,Albany County,2020-03-12,2,32,6,-3,-1,1
+US,United States,New York,Albany County,2020-03-13,-7,34,-1,-8,-7,5
+US,United States,New York,Albany County,2020-03-14,-15,18,64,-13,-4,4
+US,United States,New York,Albany County,2020-03-15,-19,11,99,-15,-7,3
+US,United States,New York,Albany County,2020-03-16,-11,28,5,-21,-20,8
+US,United States,New York,Albany County,2020-03-17,-33,17,-22,-28,-35,15
+US,United States,New York,Albany County,2020-03-18,-36,7,23,-30,-40,17
+US,United States,New York,Albany County,2020-03-19,-40,4,-16,-40,-43,18
+US,United States,New York,Albany County,2020-03-20,-43,7,5,-45,-46,21
+US,United States,New York,Albany County,2020-03-21,-49,-5,133,-37,-27,11
+US,United States,New York,Albany County,2020-03-22,-54,-15,90,-52,-29,10
+US,United States,New York,Albany County,2020-03-23,-60,-29,-55,-57,-56,23
+US,United States,New York,Albany County,2020-03-24,-57,-19,-47,-54,-56,24
+US,United States,New York,Albany County,2020-03-25,-54,-18,-27,-56,-56,24
+US,United States,New York,Albany County,2020-03-26,-51,-11,43,-53,-55,23
+US,United States,New York,Albany County,2020-03-27,-52,-15,41,-52,-55,24
+US,United States,New York,Albany County,2020-03-28,-59,-25,33,-59,-37,14
+US,United States,New York,Albany County,2020-03-29,-59,-30,-15,-64,-36,13
+US,United States,New York,Albany County,2020-03-30,-51,-19,-37,-60,-56,23
+US,United States,New York,Albany County,2020-03-31,-52,-15,-20,-56,-58,23
+US,United States,New York,Albany County,2020-04-01,-49,-12,12,-53,-57,23
+US,United States,New York,Albany County,2020-04-02,-52,-12,-13,-58,-58,24
+US,United States,New York,Albany County,2020-04-03,-54,-15,-39,-61,-58,27
+US,United States,New York,Albany County,2020-04-04,-55,-16,173,-55,-37,13
+US,United States,New York,Albany County,2020-04-05,-56,-23,91,-62,-37,11
+US,United States,New York,Albany County,2020-04-06,-49,-8,37,-57,-58,22
+US,United States,New York,Albany County,2020-04-07,-60,20,30,-52,-58,23
+US,United States,New York,Albany County,2020-04-08,-63,15,-17,-53,-59,25
+US,United States,New York,Albany County,2020-04-09,-66,15,-44,-59,-59,26
+US,United States,New York,Albany County,2020-04-10,-64,26,-31,-60,-60,27
+US,United States,New York,Albany County,2020-04-11,-62,37,66,-54,-37,14
+US,United States,New York,Albany County,2020-04-12,-80,-53,,-66,-41,12
+US,United States,New York,Albany County,2020-04-13,-68,-25,-46,-65,-59,25
+US,United States,New York,Albany County,2020-04-14,-62,-12,-2,-54,-57,23
+US,United States,New York,Albany County,2020-04-15,-61,-15,-7,-55,-57,24
+US,United States,New York,Albany County,2020-04-16,-62,-13,-22,-58,-58,24
+US,United States,New York,Albany County,2020-04-17,-64,-17,-9,-59,-57,26
+US,United States,New York,Albany County,2020-04-18,-67,-22,14,-60,-36,15
+US,United States,New York,Albany County,2020-04-19,-63,-21,,-61,-33,10
+US,United States,New York,Albany County,2020-04-20,-59,-15,14,-57,-57,22
+US,United States,New York,Albany County,2020-04-21,-65,-19,-43,-61,-57,24
+US,United States,New York,Albany County,2020-04-22,-63,-18,-40,-58,-57,25
+US,United States,New York,Albany County,2020-04-23,-62,-14,17,-57,-58,24
+US,United States,New York,Albany County,2020-04-24,-64,-17,-29,-61,-56,26
+US,United States,New York,Albany County,2020-04-25,-61,-15,,-48,-34,10
+US,United States,New York,Albany County,2020-04-26,-66,-24,-16,-66,-36,12
+US,United States,New York,Albany County,2020-04-27,-60,-16,-38,-61,-56,23
+US,United States,New York,Albany County,2020-04-28,-57,-10,40,-53,-56,16
+US,United States,New York,Albany County,2020-04-29,-59,-13,4,-54,-56,23
+US,United States,New York,Albany County,2020-04-30,-61,-15,-37,-58,-57,25
+US,United States,New York,Albany County,2020-05-01,-60,-13,-16,-55,-56,25
+US,United States,New York,Albany County,2020-05-02,-56,-10,,-42,-30,9
+US,United States,New York,Albany County,2020-05-03,-54,-12,,-49,-31,7
+US,United States,New York,Albany County,2020-05-04,-54,-14,-11,-56,-55,21
+US,United States,New York,Albany County,2020-05-05,-52,-4,31,-52,-55,21
+US,United States,New York,Albany County,2020-05-06,-58,-14,8,-53,-55,22
+US,United States,New York,Albany County,2020-05-07,-54,-8,74,-49,-54,21
+US,United States,New York,Albany County,2020-05-08,-57,-6,30,-54,-53,23
+US,United States,New York,Albany County,2020-05-09,-58,-5,40,-56,-30,12

@@ -46,6 +46,7 @@ public class CoronaVirusDataService {
             locationStat.setOnVentilatorCurrently(parseInteger(record.get("onVentilatorCurrently"), 0)); 
             locationStat.setPositive(parseInteger(record.get("positive"), 0));
             locationStat.setPositiveIncrease(parseInteger(record.get("positiveIncrease"), 0));
+            locationStat.setTotalTestResults(parseInteger(record.get("totalTestResults"), 0));
             newStats.add(locationStat);
            
             /*
