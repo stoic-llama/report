@@ -1,5 +1,6 @@
 package com.coronavirus.report.controller;
 
+import java.time.LocalDate;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,10 +8,11 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
+import com.coronavirus.report.model.LocationStats;
 import com.coronavirus.report.model.MobilityStats;
 import com.coronavirus.report.service.CoronaVirusDataService;
 import com.coronavirus.report.service.GoogleMobilityDataService;
-import com.coronavirus.report.service.SocialDistancingDataService;
+import com.coronavirus.report.service.StateReadinessDataService;
 import com.coronavirus.report.service.SummaryDataService;
 
 @Controller
@@ -26,15 +28,29 @@ public class StateReadinessController {
     SummaryDataService summaryDataService;
 
 	@Autowired
-	SocialDistancingDataService socialDistancingDataService;
-	
-	List<MobilityStats> allMobileStats;
+	StateReadinessDataService stateReadinessDataService;
 	
 	@GetMapping("/statereadiness")
 	public String startereadiness (Model model) {
-		allMobileStats = googleMobilityDataService.getAllStats();
+        List<LocationStats> allStats = coronaVirusDataService.getAllStats();
+		List<MobilityStats> allMobileStats = googleMobilityDataService.getAllStats();
+        int hospitalized = -1;
+        int daysKeepingSocialDistancing = -1;
+        int positives = -1;
+        int totalTestResults = -1;
+        String recommendation = "Not sure";
+        LocalDate date = LocalDate.now();
+		
+        positives = allStats.get(allStats.size()-1).getPositive();
+        totalTestResults = allStats.get(allStats.size()-1).getTotalTestResults();
+        
+        int positivesTrend = positives/totalTestResults;
 
-		model.addAttribute("allMobileStats",  allMobileStats);
+        model.addAttribute("daysHospitalizedDeclining", summaryDataService.getDaysSinceDecline(allStats, "CT"));
+		model.addAttribute("daysKeepingSocialDistancing", stateReadinessDataService.getLatestResidentialTrend(allMobileStats, "US", "United States", "Connecticut"));
+		model.addAttribute("daysPositivesDeclining", positivesTrend);
+		model.addAttribute("Recommendation", recommendation);  // TODO: Need to program recommendation logic
+		model.addAttribute("dateToday", date);
 		
 		return "statereadiness";
 	}

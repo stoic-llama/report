@@ -13,15 +13,15 @@ import org.junit.jupiter.api.Test;
 import com.coronavirus.report.model.LocationStats;
 import com.coronavirus.report.model.MobilityStats;
 
-class SocialDistancingDataServiceTest {
+class StateReadinessDataServiceTest {
 
 	static GoogleMobilityDataService googleMobilityDataService;
-	static SocialDistancingDataService socialDistancingDataService;
+	static StateReadinessDataService stateReadinessDataService;
 	static List<MobilityStats> allMobileStats;
     
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
-		socialDistancingDataService = new SocialDistancingDataService();
+		stateReadinessDataService = new StateReadinessDataService();
 		allMobileStats = googleMobilityDataService.getAllStats();
 	}
 
@@ -38,19 +38,10 @@ class SocialDistancingDataServiceTest {
 	}
 
 	@Test
-	void testGetLatestGroceryTrend() {
-		List<MobilityStats> expected = allMobileStats;
-		
-		List<MobilityStats> actual = socialDistancingDataService.getLatestGroceryTrend(allMobileStats, "CT");
-		
-		assertEquals(expected, actual, "The expected is not equal to the actual.");
-	}
-
-	@Test
 	void testGetLatestResidentialTrend() {
 		List<MobilityStats> expected = allMobileStats;
 		
-		List<MobilityStats> actual = socialDistancingDataService.getLatestGroceryTrend(allMobileStats, "CT");
+		//List<MobilityStats> actual = stateReadinessDataService.getLatestResidentialTrend(allMobileStats, "US", "United States", "Connecticut");
 		
 		assertEquals(expected, actual, "The expected is not equal to the actual.");
 	}

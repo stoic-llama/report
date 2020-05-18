@@ -11,37 +11,21 @@
 <body>
 <div class="container">
 	<h1>Coronavirus State Readiness Report</h1>
-	<p>This report will provide a general guidance on the readiness for the state to re-open.</p>
+	<p>This report will provide a general guidance on the readiness for Connecticut to re-open.</p>
 	<p>Today's Date: <b th:text="${dateToday}">00/00/0000</b></p>
 	
     <table class="table">
 	    <tr>
-            <th>State</th>
-            <th>Hospitalized</th>
-            <th>Positives</th>
-            <th>Continuous Days Of Hospitalization Decline</th>
+            <th>Continuous Days Of Hospitalization Decline</th>  <!-- should not be declining -->
+            <th>Continuous Days Of Maintaining Social Distancing Below Baseline</th>   <!-- should not be 0 or below -->
+            <th>Continuous Days of % Positives Over All Tests Decline</th>  <!-- should be declining -->
             <th>Ready to Reopen?</th>
         </tr>
         <tr>
-	        <td>Connecticut</td>
-	        <td th:text="${CTHospitalized}">0</td>
-	        <td th:text="${CTPositives}">0</td>
-	        <td th:text="${CTDaysSinceDecline}">0</td>
-	        <td th:text="${CTVerdict}">Not sure</td>
-        </tr>
-        <tr>
-	        <td>New York</td>
-	        <td th:text="${NYHospitalized}">0</td>
-	        <td th:text="${NYPositives}">0</td>
-	        <td th:text="${NYDaysSinceDecline}">0</td>
-	        <td th:text="${NYVerdict}">Not sure</td>
-        </tr>
-        <tr>
-	        <td>Massachusetts</td>
-	        <td th:text="${MAHospitalized}">0</td>
-	        <td th:text="${MAPositives}">0</td>
-	        <td th:text="${MADaysSinceDecline}">0</td>
-	        <td th:text="${MAVerdict}">Not sure</td>        
+	        <td th:text="${daysHospitalizedDeclining}">0</td>
+	        <td th:text="${daysKeepingSocialDistancing}">0</td>
+	        <td th:text="${daysPositivesDeclining}">0</td>
+	        <td th:text="${Recommendation}">Not sure</td>
         </tr>
     </table>
 </div>
