@@ -41,15 +41,18 @@ public class StateReadinessController {
         String recommendation = "Not sure";
         LocalDate date = LocalDate.now();
 		
+        hospitalized = summaryDataService.getDaysSinceDecline(allStats, "CT");
+        
+        daysKeepingSocialDistancing = stateReadinessDataService.getLatestResidentialTrend(allMobileStats, "US", "United States", "Connecticut");
+        
         positives = allStats.get(allStats.size()-1).getPositive();
         totalTestResults = allStats.get(allStats.size()-1).getTotalTestResults();
-        
-        int positivesTrend = positives/totalTestResults;
+        int positivesTrend = (positives/totalTestResults) * 100;
 
-        model.addAttribute("daysHospitalizedDeclining", summaryDataService.getDaysSinceDecline(allStats, "CT"));
-		model.addAttribute("daysKeepingSocialDistancing", stateReadinessDataService.getLatestResidentialTrend(allMobileStats, "US", "United States", "Connecticut"));
+        model.addAttribute("daysHospitalizedDeclining", hospitalized);
+		model.addAttribute("daysKeepingSocialDistancing", daysKeepingSocialDistancing);
 		model.addAttribute("daysPositivesDeclining", positivesTrend);
-		model.addAttribute("Recommendation", recommendation);  // TODO: Need to program recommendation logic
+		model.addAttribute("Recommendation", stateReadinessDataService.getRecommendation(hospitalized, daysKeepingSocialDistancing, positivesTrend));  // TODO: Need to program recommendation logic
 		model.addAttribute("dateToday", date);
 		
 		return "statereadiness";

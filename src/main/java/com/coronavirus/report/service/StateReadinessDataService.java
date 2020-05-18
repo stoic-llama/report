@@ -27,7 +27,20 @@ public class StateReadinessDataService {
 		return daysKeepingSocialDistancing;
 	}
 	
-
+	
+	public String getRecommendation(int hospitalized, int daysKeepingSocialDistance, int positivesTrend) {
+		String recommendation = "Not sure";
+		
+		if ( (hospitalized >= 14) && (daysKeepingSocialDistance >= 14) && (positivesTrend >= 80) ) {
+			recommendation = "Green Light";
+		} else if ((hospitalized >= 0) && (daysKeepingSocialDistance >= 0) && (positivesTrend >= 50) ) {
+			recommendation = "Yellow Light - still need to wait";
+		} else {
+			recommendation = "Red Light = stay home!";
+		}
+		
+		return recommendation;
+	}
 	
 	
 	/////////////////////////////////////////HELPER METHODS/////////////////////////////////////////
