@@ -57,9 +57,7 @@ public class StateReadinessDataService {
 		String tempCounty = "";
 		String temp = "";
 		
-		boolean exit = false;
 		for (MobilityStats m : allMobileStats) {
-	
 			tempCountryCode = m.getCountry_region_code();
 			tempCountry = m.getCountry_region(); 
 			tempState = m.getSub_region_1();
