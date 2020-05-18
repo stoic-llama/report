@@ -31,9 +31,9 @@ public class StateReadinessDataService {
 	public String getRecommendation(int hospitalized, int daysKeepingSocialDistance, int positivesTrend) {
 		String recommendation = "Not sure";
 		
-		if ( (hospitalized >= 14) && (daysKeepingSocialDistance >= 14) && (positivesTrend >= 80) ) {
+		if ( (hospitalized >= 14) && (daysKeepingSocialDistance >= 14) && (positivesTrend <= 20) ) {
 			recommendation = "Green Light";
-		} else if ((hospitalized >= 0) && (daysKeepingSocialDistance >= 0) && (positivesTrend >= 50) ) {
+		} else if ((hospitalized >= 0) && (daysKeepingSocialDistance >= 0) && (positivesTrend <= 50) ) {
 			recommendation = "Yellow Light - still need to wait";
 		} else {
 			recommendation = "Red Light = stay home!";
@@ -51,7 +51,6 @@ public class StateReadinessDataService {
 		
 		String filter = countryCode+country+state+"No data";  // we are not looking at county level detail now, so exclude sub-region2
 		
-		int counter = 0;
 		String tempCountryCode = "";
 		String tempCountry = "";
 		String tempState = "";
@@ -61,32 +60,16 @@ public class StateReadinessDataService {
 		boolean exit = false;
 		for (MobilityStats m : allMobileStats) {
 	
-			tempCountryCode = allMobileStats.get(counter).getCountry_region_code();
-			tempCountry = allMobileStats.get(counter).getCountry_region(); 
-			tempState = allMobileStats.get(counter).getSub_region_1();
-			tempCounty = allMobileStats.get(counter).getSub_region_2();
+			tempCountryCode = m.getCountry_region_code();
+			tempCountry = m.getCountry_region(); 
+			tempState = m.getSub_region_1();
+			tempCounty = m.getSub_region_2();
 			temp = tempCountryCode + tempCountry + tempState + tempCounty;  
 			
-			while (filter.equals(temp)) {
-				tempCountryCode = allMobileStats.get(counter).getCountry_region_code();
-				tempCountry = allMobileStats.get(counter).getCountry_region(); 
-				tempState = allMobileStats.get(counter).getSub_region_1();
-				tempCounty = allMobileStats.get(counter).getSub_region_2();
-				temp = tempCountryCode + tempCountry + tempState + tempCounty;  
-				
-				filteredMobileStats.add(allMobileStats.get(counter));
-				System.out.println(allMobileStats.get(counter).toString());
-				
-				exit = true;
-				counter++;
-
-
+			if (filter.equals(temp)) {
+				filteredMobileStats.add(m);
+				System.out.println(m.toString());
 			}
-
-			if (exit) {
-				break;
-			}
-
 		} // end for loop
 		
 		return filteredMobileStats; 
